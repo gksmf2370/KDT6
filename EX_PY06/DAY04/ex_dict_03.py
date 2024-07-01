@@ -23,4 +23,5 @@ result = p1.items()
 print(f'키와 값 추출 : {result}, {type(result)}')
 
 result=list(result)
+print(f'키와 값 추출 : {result}, {type(result)}')
 print(f'키와 값 추출 : {result[0]}, {type(result[0])}')
