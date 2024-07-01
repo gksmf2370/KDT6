@@ -39,3 +39,16 @@ print(data_dog)
 # 몸무게 3kg ===> 8kg
 data_dog["weight"] = 8
 print(data_dog)
+
+## - del 변수명[키]  또는 del(변수명 [키])
+## 성별 데이터 삭제
+del data_dog["gender"]
+print(data_dog)
+
+## 추가 : 변수명[새로운 키]=값 ---------------
+## 이름 추가
+data_dog["name"]="뽀삐"
+print(data_dog)
+
+data_dog["name"]="마징가"
+print(data_dog)
