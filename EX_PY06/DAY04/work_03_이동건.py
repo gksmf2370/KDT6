@@ -19,6 +19,8 @@ print(f'{camille["health"]}\n{camille["movement_speed"]}')
 # -------------------------------------------------
 key=input("키를 입력하세요 : ").split(' ')
 value=input("값을 입력하세요 :").split(' ')
+
+values=list(map(float,value))
 dic=dict(zip(key,value))
 print(dic)
 
