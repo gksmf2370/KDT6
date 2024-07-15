@@ -27,7 +27,7 @@ tvl=input("여행가고 싶은 나라")
 
 FILENAME='result1.txt'
 f=open(FILENAME, mode='w' , encoding='utf-8') #파일을 쓰기 모드로 열기 , f는 시작주소값
-# ebcidubg='utf-8'은 한글이 깨질때 유니코드로 변환하는것
+# encoding='utf-8'은 한글이 깨질때 유니코드로 변환하는것
 
 print(f"{season}, {country}, {tvl}", file=f)
 f.write(season)
