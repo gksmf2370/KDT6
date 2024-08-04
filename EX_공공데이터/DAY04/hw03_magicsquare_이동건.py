@@ -8,7 +8,6 @@ def input_num():
             print('짝수를 입력하였습니다. 다시 입력하세요.')
         else :
             return number
-            break
                 
 ## 메인함수
 size=input_num()
