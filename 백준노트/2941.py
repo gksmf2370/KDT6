@@ -2,7 +2,7 @@
 # 간단하게 생각해보기 stack에서 꺼내온다고 생각하자
 a=input() 
 
-b=['c=', 'c-', ' dz=', 'd-', 'lj', 'nj', 's=', 'z=']
+b=['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 
 for i in b:
     a=a.replace(i,'*')
