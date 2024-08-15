@@ -40,7 +40,7 @@ def get_naver_search(node, search_text, start, display):
 def main():
     node= 'news'
     # search_text = input('검색어를 입력하세요: ')
-    search_text = '인공지능'
+    search_text = 'java'
     cnt = 0
 
     json_response = get_naver_search(node, search_text, 1, 100)

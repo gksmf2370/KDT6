@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
+import time 
 
 driver = webdriver.Chrome()
 driver.get("https://www.google.com/search?q=" + 'Python')
