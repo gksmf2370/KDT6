@@ -6,17 +6,32 @@
 
 # 1 1개
 # 2층 2~7까지 6개
-# 3층 8~19까지 12개
+#시간 초과
 start = 2
 n=6
 cnt=1
 a = int(input())
 while True:
-
-    for i in range(start,start+n):
-        if a == 1:
-            print(cnt)
-            break
-        cnt += 1
+    if a == 1:
+        print(a)
+        break
+    b=list(range(start,start+(n*cnt)))
+    if a in b:
+        print(cnt+1)
+        break
+    cnt += 1
     start= start+n
-    
+
+
+# 수정코드
+a = int(input())
+
+if a == 1:
+    print(1)
+else:
+    cnt = 1
+    start = 2
+    while start <= a:
+        start += 6 * cnt
+        cnt += 1
+    print(cnt)
