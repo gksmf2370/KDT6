@@ -6,7 +6,7 @@ def input_num():
         else :
             return number
             break
-        
+        123
         
 
 
