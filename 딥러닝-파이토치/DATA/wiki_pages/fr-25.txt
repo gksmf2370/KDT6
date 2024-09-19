@@ -1,0 +1,103 @@
+Récepteur d’appel Motorola LX2[1] . 
+Pylône de Challans (85) avec un émetteur POCSAG UHF.
+La radiomessagerie ou le téléavertissement (en anglais : paging) est un service d'envoi de messages par radio à des utilisateurs. 
+Les messages sont reçus par un récepteur d’appel appelé en France et en Belgique: bipeur[2],[3] ou pager et téléavertisseur ou pagette[4],[5],[6] au Québec.
+Les messages peuvent être numériques (codes chiffrés) ou alphanumériques (courts textes). Ces systèmes ont été introduits dans les années 1960 aux États-Unis. Ils ont connu leur apogée dans les années 1980 et 1990. 
+La radiomessagerie est toujours populaire aux États-Unis dans les établissements hospitaliers[7], mais elle est jugée par certains comme obsolète et a disparu en Europe de l'Ouest et en Asie. En effet, le SMS des GSM offre le même type de services que la radiomessagerie, mais celui-ci a la possibilité d'émettre et de recevoir des messages ce que ne peut pas faire le boitier de radiomessagerie (réception uniquement). Le SMS garantit la réception de vos messages si vous êtes dans une zone couverte, contrairement à la radiomessagerie, mais en radiomessagerie la zone de couverture est bien meilleure, notamment dans les locaux.
+
+
+Fonctionnement[modifier | modifier le code]
+Récepteur de radiomessagerie en usage des 1980 aux années 1990.
+Pour contacter un correspondant, on passe par son opérateur, et on transmet le message. Le message est alors envoyé au travers d'un réseau POCSAG jusqu'au téléavertisseur.  
+Le pager avertit alors son utilisateur (sonnerie, bip, vibration, clignotement), et affiche le numéro de l'appelant, ainsi qu'un message numérique ou textuel. La communication est unidirectionnelle. Jusqu'en 2005, un pager ne pouvait que recevoir des messages. Pour répondre à son correspondant, il fallait utiliser un téléphone.
+
+Caractéristiques techniques[modifier | modifier le code]
+La radiomessagerie utilise des fréquences plus basses que les téléphones mobiles : en conséquence, un émetteur donné couvre une zone bien plus grande qu'une cellule d'un réseau de téléphonie mobile. Pour cette raison, la radiomessagerie garde son intérêt, notamment pour contacter du personnel de secours (pompiers, personnel hospitalier, etc.). 
+Cette très bonne couverture fait qu'un message sera toujours reçu par le destinataire. Pourtant dans de rares cas, le message peut ne pas arriver à destination : si le récepteur est hors-service (batterie) ou en dehors d'une zone de couverture. Dans ce cas rien ne l'indique à l'émetteur, car le récepteur ne peut émettre d'accusé de réception vers le réseau et le message est perdu. Sur ce point, malgré une moins bonne couverture, les téléphones mobiles offrent l'avantage de donner un accusé de réception lors de l'envoi d'un SMS, et si le destinataire est hors réseau, il recevra son message, texte ou vocal, lorsqu'il sera de nouveau dans une zone couverte.
+
+Radiomessagerie dans le monde[modifier | modifier le code]
+Un pager de pompier belge opéré par le réseau national A.S.T.R.I.D..
+La radiomessagerie a utilisé différents protocoles, par exemple :
+
+ERMES (European Radio Messaging System) ;
+POCSAG, développé entre 1975 et 1978 par la poste britannique. Son nom dérive d'ailleurs du Post Office Code Standardisation Advisory Group ;
+FLEX, développé par Motorola. Il a évolué en ReFLEX (communication bidirectionnelle), puis inFLEXion (transmission de messages vocaux) ;
+TAP ;
+Eurosignal ;
+le Radio Data System (RDS), outre ses fonctions de base d'aide aux auditeurs de la radio FM, propose un système complet de radiomessagerie ;
+MBS, d'origine suédoise, dont le procédé de modulation a été repris pour le RDS.
+A.S.T.R.I.D., le réseau national belge numérique et crypté pour les services d'urgence et de sécurité.
+Radiomessagerie en France[modifier | modifier le code]
+Années 1970 à 1990[modifier | modifier le code]
+Eurosignal a été lancé en 1975. Il ne permettait la transmission que d'une information très basique à son correspondant : allumer un voyant parmi quatre.
+Alphapage est apparu en 1987. Il était commercialisé par France Télécom Mobiles Radiomessagerie (FTMR). En 1992, Laurent Wainberg fonde Call Back. L'entreprise de radiomessagerie professionnelle devient en 5 ans le premier distributeur privé de récepteurs sur le réseau Alphapage en France. En 1997, France Télécom acquiert 34% de la société Call Back[8].
+Le système Operator, lancé par TDF à la fin des années 1980, véhiculait les messages grâce aux signaux RDS des émetteurs de Radio France. Le service Operator a été pris en 1995 au sein France Télécom Mobiles Radiomessagerie, où il a été intégré dans la gamme de produits sous différents noms tels que Expresso RDS ou Textplus.
+Des pagers pour le grand public ont été lancés en France au milieu des années 1990. Ils ont fait fureur pendant quelques années, notamment auprès des collégiens et des lycéens, mais ont très vite disparu au profit des GSM. Les réseaux étaient alors les suivants :
+
+Tatoo et Alphapage de France Télécom Mobile Radiomessagerie, racheté par la société allemande E-Message courant 2000, utilisant le protocole POCSAG.
+Tam-Tam de Cegetel, utilisant le protocole ERMES. Les derniers récepteurs ont été vendus fin 1998. Le service a été arrêté fin 1999. L'opérateur a favorisé la migration de ses clients vers le réseau GSM SFR ;
+Kobby de Infomobile (groupe Bouygues), utilisant le protocole ERMES puis FLEX. Kobby a été arrêté mi 2005.
+État depuis les années 2000[modifier | modifier le code]
+En 2000, FTMR a été rachetée pour la somme de 1 euro par la société Sprintel qui a migré au Chesnay le matériel FTMR de Paris ainsi que le centre de support FTMR Stratus qui se trouvait à Lyon.  Le groupe allemand e*Message[9] a ensuite repris l’activité de Sprintel en 2001 et l'a renommée « e*Message WIS » (Wireless Information Services) France. 
+e*Message France exploite et développe depuis 2001 le réseau Alphapage qui est destiné aux professionnels de l'astreinte et aux métiers de l'urgence (pompiers, techniciens, médecins etc.). 
+La radiomessagerie sur le réseau Alphapage repose sur la norme POCSAG.
+
+Radiomessagerie en Suisse[modifier | modifier le code]
+Il reste deux réseaux en Suisse :
+
+Swissphone
+Digicall
+Ils sont principalement utilisés pour les alarmes de sécurité (ambulances, pompiers). La société Digicall est active dans le domaine du centre d'appel, ce qui lui permet d’assurer, non seulement la transmission des messages mais également la prise des appels et la garantie de leur réception (notamment pour les dépannages et les urgences).
+
+Radiomessagerie maritime[modifier | modifier le code]
+Récepteur Navtex.
+À bord des navires un système d'information maritime automatique en SITOR-B (système radiotélétype avec un système de correction d'erreur FEC), les messages Navtex peuvent être reçus jusqu'à plusieurs centaines de kilomètres des stations émettrices. 
+Le Navtex est un simple récepteur de moyenne fréquence muni d'une imprimante pour les modèles professionnels, ou d'un écran pour les modèles économiques. 
+Le Navtex est en service lorsque le bateau est en mer, et permet de recevoir les informations émises séquentiellement par différentes stations émettrices préprogrammées. 
+Ces messages incluent les bulletins météo, les avis urgent aux navigateurs et diverses alarmes sur les signaux de radionavigation sur la fréquence 518 kHz pour le système Navtex international en langue anglaise[10] et sur la fréquence 490 kHz pour le système NAVTEX en langue nationale[11].
+Une alarme est également prévue pour attirer l'attention du personnel de quart en cas de message à caractère urgent.
+
+Radio-amateurisme[modifier | modifier le code]
+Au cours des années passées, certains radioamateurs (principalement allemands) ont déployé leurs propres réseaux de radiomessagerie POCSAG sur leur bande des 70 cm. Ils utilisent des terminaux commerciaux modifiés pour fonctionner sur la fréquence radioamateur de 439,987 5 MHz FMN en FSK 1 200 Bauds.
+
+Notes et références[modifier | modifier le code]
+
+↑ « Instruction d'utilisation Motorola LX2 », sur Motorola ManulsBase (consulté le 18 septembre 2024).
+
+↑ « Explosions mortelles au Liban : c’est quoi un bipeur, comment ont-ils été tous déclenchés ? », sur La Voix du Nord (consulté le 18 septembre 2024).
+
+↑ « Explosion de bipeurs au Liban: comment ces appareils ont-ils été piégés? », sur RTL info (consulté le 18 septembre 2024).
+
+↑ « téléavertisseur », Grand Dictionnaire terminologique, Office québécois de la langue française (consulté le 19 septembre 2024).
+
+↑ « Pourquoi les téléavertisseurs de membres du Hezbollah ont-ils explosé? », sur Le Devoir (consulté le 18 septembre 2024).
+
+↑ « Des milliers de membres du Hezbollah blessés dans l'explosion simultanée de leur pagette », sur TVA Nouvelles (consulté le 18 septembre 2024).
+
+↑ « Explosions simultanées: qu’est-ce qu’une pagette ou un téléavertisseur? », sur TVA Nouvelles (consulté le 18 septembre 2024).
+
+↑ « Entreprendre n°111 mai 1997 - Page 22 - 23 - Entreprendre n°111 mai 1997 - Entreprendre - entreprises / commerces - professionnelle - Actualité - 1001mags - Magazines en PDF à 1 € et GRATUITS ! », sur fr.1001mags.com (consulté le 23 avril 2019)
+
+↑ Bienvenue sur le site d'e*Message site emessage.fr, consulté le 25 octobre 2015
+
+↑ RÉSOLUTION N° 324 (Mob -87): Procédures à appliquer pour la coordination de l'utilisation de la fréquence 518 kHz pour le système NAVTEX international
+
+↑ RÉSOLUTION N° 329 (Mob-87): Procédure applicable aux stations émettant des renseignements de type NAVTEX local en langue nationale sur les fréquences 490 kHz et 4 209,5 kHz
+
+
+
+Voir aussi[modifier | modifier le code]
+Articles connexes[modifier | modifier le code]
+INMARSAT C, couvrant la zone entre les latitudes 70° Nord et 70° Sud c'est-à-dire ne couvrant pas l’Arctique et l’Antarctique (zone polaire).
+Appel sélectif numérique
+Radiotélétype
+Liens externes[modifier | modifier le code]
+Protocoles de radiomessagerie
+« radiomessagerie », Grand Dictionnaire terminologique, Office québécois de la langue française (consulté le 17 septembre 2024)
+« téléavertisseur », Grand Dictionnaire terminologique, Office québécois de la langue française (consulté le 17 septembre 2024)
+ Portail des télécommunications  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Radiomessagerie&oldid=218761415 ».

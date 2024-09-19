@@ -1,0 +1,85 @@
+Nakaturo ang "Wikipediang bot" dito. Para sa sa patakaran ng bot sa Wikipediang Tagalog, tingnan ang WP:BOT.
+ WikipediaScreenshot
+Uri ng saytProyektong Ensiklopedyang Pang-InternetMga wikang mayroon325 wikaPunong tanggapanSaint Petersburg, FloridaBansang pinagmulan United StatesMay-ariPundasyong WikimediaLumikhaJimmy WalesLarry Sanger[1]URLen.wikipedia.orgPang-komersiyo?HindiPagrehistroHindi sapilitanNilunsad15 Enero 2001(23 taon na'ng nakalipas) (2001-01-15)Kasalukuyang kalagayanActive
+Ang Wikipedia ay isang ensiklopedya na may basehang wiki at may malayang nilalaman. Ito ay tinatawag na malaya sa kadahilanang ito ay malayang magagamit at mapapalitan ng kung sino man. Ang Wikipedia ay nakasulat sa maraming wika at pinamamahalaan ng Wikimedia Foundation.
+Ang Wikipedia ay sinimulan bilang isang proyektong nasa wikang Ingles noong Enero 15, 2001 at sumunod na lamang ang mga proyektong Wikipedia sa iba't ibang wika.
+
+
+Pangunahing karakter
+Ang proyektong Wikipedia ay mayroong tatlong pangunahing karakter na nagbibigay ng mga katangiang ito sa World Wide Web:
+
+Ito ay ikaw, o may pangunahing layunin na maging isang ensiklopedya.
+Ito ay isang wiki na maaaring palitan ng kung sino man maliban sa ilang natatanging pahina.
+Ito ay may malayang nilalaman at gumagamit ng tinatawag na copyleft GNU Lisensiya para sa Malayang Dokyumentasyon.
+Lahat ng software para sa Wikipedia ay malayang software (MediaWiki, GNU/Linux, MySQL, at Apache).
+
+Tala ng mga Wikipedia
+1,000,000+ mga artikulo
+العربية • Deutsch • English • Español • Français • Polski • Italiano • Nederlands • ガンからジョー • Português • Русский • Sinugboanong Binisaya • Svenska • Українська • Việt / 越南語 • Winaray • 中文
+
+100,000+ mga artikulo
+Afrikaans • Shqip • Armãneashce • Azərbaycanca / Азәрбајҹан / آذربایجان دیلی • Asturianu • Български • Bân-lâm-gú / Hō-ló-oē / 闽南语 • Беларуская (Акадэмічная) • Català • Нохчийн • Česky • Dansk • Eesti • Ελληνικά • Esperanto • Euskara • فارسی • Filipino • Galego • Հայերեն • မြန်မာဘာသာ • देवनागरी और हाउस • Hrvatski • Indonesia • עברית • Latina • Latviešu • Lietuvių • Lumbaart • Македонски • Malagasy • Magyar • Melayu / بهاس ملايو • Minangkabau • Norsk (bokmål • nynorsk) • Nnapulitano • Occitan • Oʻzbekcha / Ўзбекча / اوزبیکچه • Қазақша / Qazaqşa / قازاقشا • Română • Cymraeg • Simple English • Slovenčina • Slovenščina • Српски / Srpski • Srpskohrvatski / Српскохрватски • Suomi • Tagalog / ᜊᜌ᜔ᜊᜌᜒᜈ᜔ • தமிழ் • Татарча / Tatarça • Тоҷикӣ / تاجیکی / Tojikī • تۆرکجه • Türkçe • اردو • Volapük • ภาษาไทย • Ślůnski • Zazaki • 한국어 • ქართული
+
+10,000+ mga artikulo
+Acèh / بهسا اچيه • Alemannisch • አማርኛ • Aragonés • Kreyòl Ayisyen • বাংলা • Banyumasan • Башҡортса • Беларуская (Тарашкевіца) • भोजपुरी • Bikol Central • Boarisch • Bosanski • Brezhoneg • Буряад • Чӑвашла • Chavacano de Zamboanga • Corsu • Diné Bizaad • Emigliàn–Rumagnòl • Fiji Hindi / फ़िजी बात • Føroyskt • Frysk • Gaeilge • Gàidhlig • ગુજરાતી • Hak-kâ-fa / 客家話 • Hmoob • Hornjoserbsce • Ido • Ilokano • ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী • Interlingua • Иронау • Íslenska • Jawa / ꦧꦱꦗꦮ • Kapampangan • ಕನ್ನಡ • Kurdî / كوردی •  • کوردیی ناوەندی Кыргызча / qırğızça / اوزبیکچه • Мары • Kotava • Lëtzebuergesch • Limburgs • Malti • मैथिली • 古文 / 文言文 • മലയാളം • मराठी • مصرى • / Mäzeruni مازِرونی • მარგალური • Mìng-dĕ̤ng-ngṳ̄ / 閩東語 • Монгол • Молдовеняскэ • Nāhuatlahtōlli • नेपाल भाषा • नेपाली • Nordfriisk • Марий • ଓଡି଼ଆ • ਪੰਜਾਬੀ (ਗੁਰਮੁਖੀ) • پښتو • Piemontèis • Plattdüütsch • Ripoarisch • Runa Simi • संस्कृतम् • Саха Тыла • شاہ مکھی پنجابی (شاہ مکھی) • Scots • Sesotho sa Leboa • Сибирской говор • Sicilianu • سنڌي / सिनधि • Melayu sareng Buku / ᮘᮞ ᮞᮥᮔ᮪ᮓ • Kiswahili • Tarandíne • བོད་ཡིག • తెలుగు • Türkmençe / түркмен / تۆرکمنچه‎ • ᨅᨔ ᨕᨙᨁᨗ / Basa Ugi • Vèneto • Walon • 吳語 • ייִדיש • Yorùbá • Žemaitėška • 粵語 / 粤语 • ភាសាខ្មែរ • සිංහල
+
+1,000+ mga artikulo
+Адыгэбзэ • Аҧсуа • արեւմտահայերէն • अंगिका • Arpitan • ܐܬܘܪܝܐ • asụsụ bekee maọbụ asụsụ oyibo • Atikamekw • Avañe’ẽ • Авар • अवधी • Aymar • Ænglisc • Bali / ᬩᬲᬩᬮᬶ • Banjar • Bislama • црногорски / crnogorski • Vahcuengh / Vaƅcueŋƅ / 話僮 • Deitsch • Dolnoserbski • डोटेली • Эрзянь • Estremeñu • Ἑλληνική ἀρχαία • Eʋegbe • Furlan • Viti • Gaelg • Gagauz • Gĩkũyũ • گیلکی • 贛語 • ГӀалгӀай мотт • गोंयची कोंकणी / Gõychi Konknni • gwiyannen • Хальмг • Hausa / هَوُسَا • ʻŌlelo Hawaiʻi • Hulontalo • Interlingue • Iñupiak • Kalaallisut • كشميري • Kaszëbsczi • Kabɩyɛ • Kernuack / Kernewek / Kernewek / Kernowek • کهووار • Kinyarwanda • Kinaray-a • K’iche’ • Koyraboro Senni • Коми • Kongo • Krio • Dzhudezmo / לאדינו • Лакку • لکی • Ladin • Latgaļu • ພາສາລາວ • Лезги • Líguru • Lingála • līvõ kēļ • Livvinkarjala • Lingua franca nova • lojban • لۊری شومالی • Luganda • Saro Mandailing • Maaya t'aan • Reo Mā’ohi • Māori • ꯃꯩꯇꯩꯂꯣꯟ • Mirandés • Мокшень • Naoero • isiNdebele saseNyakatho • Nedersaksisch • Normaund / Nouormand / Normand • Novial • Oromoo • অসমীযা় • पाऴि • Pangasinán • Pangcah / 阿美族 • Papiamentu • Patois • Перем Коми • Pfälzisch • Picard • Къарачай–Малкъар • Qaraqalpaqsha • Qırımtatarca • Rumantsch • Runyankore • Русиньскый Язык • سرائیکی • Sakizaya / 撒奇莱雅 • Sámegiella • Sāmoa • ᱥᱟᱱᱛᱟᱲᱤ • Sardu • Seeltersk • ChiShona • Soomaaliga • Sranantongo • kerol seselwa • ၵႂၢမ်းတႆးယႂ် • Taqbaylit • Tayal / 泰雅 • Толыши • Tetun • Tok Pisin • faka Tonga • ತುಳು • chiTumbuka • Tsėhesenėstsestotse • ᏣᎳᎩ • Тыва дыл • Удмурт • Uyghur / ئۇيغۇرچه • Võro • Vepsän • West-Vlams • Wolof • Хакас • isiXhosa • Zeêuws • isiZulu • ދިވެހި
+
+100+ mga artikulo
+Acholi • Akan • Адыгэбзэ • Langue des Signes Américaine • Bamanankan • Ichibemba • Bewtai • ဘာသာ မန် • Chamoru • Ciluba • Chichewa • Dusun Bundu-liwan • Fulfulde / 𞤆𞤵𞤤𞤢𞤪 • Gã • ᐃᓄᒃᑎᑐᑦ / Inuktitut • jysk • Lazuri • Lingít • Lozi • Lwo • Maarrênga'twich • ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ • kreol morisien • isiNdebele seSewula • Ñhähñu • Nēhiyawēwin / Nehithawewin / Nehinawewin / ᓀᐦᐃᔭᐍᐏᐣ • Nigerian Pidgin • Ko e vagahau Niuē • Norfuk / Pitkern • ߒߞߏ • Ποντιακά • Prūsiskan • Toba Qom • къумукъ тил • རྫོང་ཁ • Romani • Kirundi • Sängö • Ganda ke Lava • Setswana • Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ • SiSwati • Chaouïa • ⵜⴰⵎⴰⵣⵉⵖⵜ • Thuɔŋjäŋ • ትግርኛ • Xitsonga • Tshivenḓa • Twi • Vaďďa • Yugtun • 𐌲𐌿𐍄𐌹𐍃𐌺
+
+10+ mga artikulo
+Afar • Choctaw • Ebon • Hiri Motu • Kanuri • Kuanyama • Muskogee • Oshiwambo • Otsiherero • tlhIngan Hol /   • tokipona • ꆇꉙ
+
+Patakaran
+Ang mga kalahok sa Wikipedia ay may sinusunod na pinagtibay na patakaran.
+Una, dahil sa iba't ibang ideolohiya ng mga lumalahok sa Wikipedia, gagawin ng nito ang lahat ng makakaya upang manatili na walang pinapanigan ang nilalaman nito. Ang layunin ay para ipakita ang lahat ng pananaw sa mga usapin o isyu ng artikulo.
+Ikalawa, maraming pamantayan sa pagngangalan ng mga artikulo; halimbawa, kung maraming ngalan ang maaaring ibigay sa isang artikulo, ang pinakakaraniwang ngalang ginagamit sa wika ang gagamitin.
+Ikatlo, gumagamit ng pahinang "talk o magsalita" ang mga lumalahok sa Wikipedia upang mapag-usapan ang pagbabago ng mga artikulo, at upang maiwasan na mismo sa artikulo isulat ang pag-uusap. Kung patungkol sa maraming artikulo ang gustong pag-usapan, mas nararapat itong ilagay sa Meta-Wikipedia o sa mailing list.
+Ikaapat, ang mga artikulong hindi nababagay ay hindi dapat gawing artikulo sa nasabing ensiklopedya. Ilang halimbawa’y ang mga pangtalasalitaang kahulugan at mga tekstong patungkol sa batas o mga talumpati.
+Ikalima, maraming tuntunin ang iminumungkahi at nagtatamo ng suporta mula sa iba't ibang kalahok ng Wikipedia. Ang pinakasinusuportahang tuntunin ay kung ang isang minungkahing tuntunin ay nakawawala ng loob na lumahok sa Wikipedia, ito'y pabayaan at huwag na lamang pansinin. Kung ang isang minungkahing tuntunin ay nilabag, ito'y pinag-uusapan ng mga kalahok ng Wikipedia kung nararapat ba itong mas striktong ipatupad o hindi.
+
+Mga Halimbawa ng Wikipedia na may kinalaman sa iba’t ibang wika
+Pangunahing artikulo: Talaan ng mga Wikipedia sa Pilipinas
+Wikipediang Tagalog (Filipino)
+Wikipediang Sebuwano (Cebuano)
+Wikipediang Esperanto (buong Mundo)
+Wikipediang Arabe (Arabian)
+Wikipediang Koreano (Korean)
+Wikipediang Tamil (Tamil)
+Wikipediang Urdu (Pakistani, Hindi)
+Wikipediang Persa (Persian)
+Wikipediang Asturyano (Austrian)
+Bot ng Wikipedia
+Para sa patakaran, tingnan ang WP:BOT.
+Ang mga bot ng Wikipedia ay mga bot ng Internet na tumatakbo sa Wikipedia. Isang pangunahing halimbawa nito ay ang Lsjbot, na nakagawa na ng milyun-milyong mga artikulo sa iba't ibang mga bersyon ng Wikipedia.[2]
+
+Mga tauhan
+Ang nilalaman ng Wikipedia ay binabago ng libu-libong tao. Ang mga taong lumalahok sa Wikipedia ay tinatawag na mga Wikipedian sa Ingles. Ang mga Wikipedian ay ang mga taong nagpapatuloy sa pagpapalago ng malayang ensiklopedyang ito. Tinatawag na mga Wikipedista (sa halip na Wikipediyano, Wikipediyano, o Wikipediano) ang mga patuloy na bumubuo sa ensiklopedyang Tagalog Wikipedia.
+
+Tingnan din
+Wikipediang Tagalog
+Jimmy Wales
+Mga sanggunian
+
+
+↑ Maling banggit (Hindi tamang <ref> tag;
+walang binigay na teksto para sa refs na may pangalang autogenerated1); $2
+↑ Gulbrandsson, Lennart (17 Hunyo 2013). "Swedish Wikipedia surpasses 1 million articles with aid of article creation bot". Wikimedia Blog. Inarkibo mula sa orihinal noong 24 Pebrero 2018. Nakuha noong 24 Pebrero 2018.{{cite web}}:  CS1 maint: date auto-translated (link)
+
+
+Mga panlabas na link
+
+
+Wikipedia  mula sa mga kapatid na proyekto ng Wikipedia
+
+Mga kahulugan mula sa WiktionaryMga balita mula sa WikinewsMga teksto mula sa WikisourceMga aklat mula sa WikibooksMga gabay-paglakbay mula sa WikivoyageMga datos mula sa WikidataMga usapan mula sa Meta-WikiDokumentasyon mula sa MediaWiki
+
+Opisyal na website (Mobile) – multilingual portal (contains links to all language editions) (wikipedia.com still redirects here)
+WikiMedia Meta-Wiki
+
+
+
+
+Kinuha sa "https://tl.wikipedia.org/w/index.php?title=Wikipedia&oldid=2087593"

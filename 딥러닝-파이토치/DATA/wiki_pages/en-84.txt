@@ -1,0 +1,62 @@
+Chinese physicist (1917–1992)
+
+
+In this Chinese name, the family name is  Wu.
+Wu Zhonghua吴仲华Wu and wife Li Minhua, c. 1943Born(1917-07-27)27 July 1917Shanghai, ChinaDied19 September 1992(1992-09-19) (aged 75)Beijing, ChinaAlma materTsinghua UniversityNational Southwestern Associated UniversityMassachusetts Institute of TechnologyKnown forGeneral theory of three-dimensional flow for turbomachinerySpouse
+Li Minhua ​(m. 1943)​Scientific careerFieldsEngineering thermophysicsInstitutionsLewis Flight Propulsion LaboratoryPolytechnic Institute of BrooklynTsinghua UniversityInstitute of Engineering Thermophysics, Chinese Academy of Sciences
+Chinese nameTraditional Chinese吳仲華Simplified Chinese吴仲华TranscriptionsStandard MandarinHanyu PinyinWú ZhònghuáWade–GilesWu Chung-hua
+
+
+Wu Zhonghua (Chinese: 吴仲华; 27 July 1917 – 19 September 1992), also known as Chung-Hua Wu,[1] was a Chinese physicist. He was a National Advisory Committee for Aeronautics (NACA) researcher, Tsinghua University professor, and Founding Director of the Institute of Engineering Thermophysics of the Chinese Academy of Sciences (CAS). He pioneered the general theory of three-dimensional flow for turbomachinery, which has been widely used in aircraft engine designs. Wu and his wife Li Minhua were both academicians of the CAS.
+Born in Shanghai, Wu's college education at Tsinghua University was interrupted by the Second Sino-Japanese War. He graduated from the temporary National Southwestern Associated University and was awarded a Boxer Indemnity Scholarship to study at the Massachusetts Institute of Technology in the United States. After earning his Ph.D., he joined the NACA, the predecessor of NASA, where he developed the theory of three-dimensional flow.
+After the outbreak of the Korean War, Wu and his wife returned to China in 1954. He established China's first turbomachinery program at Tsinghua and developed a nonorthogonal curvilinear coordinate system to improve computational accuracy. After suffering setbacks during the Great Leap Forward and the Cultural Revolution, his research resumed in the 1970s. In 1980, he became the Founding Director of the Institute of Engineering Thermophysics of the CAS.
+
+
+Early life and education[edit]
+Wu was born on 27 July 1917 in Shanghai, with his ancestral home in Suzhou, Jiangsu Province. He attended Shanghai Gezhi High School until age 16, before moving to Nanjing and graduating from Jinling High School.[2][1]
+In 1935, he entered the Department of Mechanics of Tsinghua University in Beiping (now Beijing). After the Second Sino-Japanese War broke out in 1937, the university evacuated Beiping and moved south to Changsha, Hunan Province. Together with other students of Tsinghua's mechanics department, he received a year of military training at the newly established Army Mechanized Force School in Hunan. When the Imperial Japanese Army invaded Hunan, his university was forced to evacuate again to Kunming in southwest China, where Tsinghua and several other exiled universities combined their diminished resources to form the temporary National Southwestern Associated University (Lianda). Wu resumed his studies at Lianda, and was hired as a faculty member after graduating in 1940. In 1943, he married Li Minhua, a fellow alumna and physicist at Lianda.[2]
+
+Career in the United States[edit]
+In late 1943, Wu won Tsinghua University's Boxer Indemnity Scholarship to study in the United States. He and his wife were both accepted by the Massachusetts Institute of Technology as Ph.D. students and began their studies in 1944. He specialized in the internal combustion engine. Li gave birth to two sons in the US, and the couple took turns taking classes and looking after the children.[2]
+Wu earned his Ph.D. in 1947, and Li hers a year later. They both joined the Lewis Flight Propulsion Laboratory of the National Advisory Committee for Aeronautics after graduation.[2] In 1950, he pioneered the three-dimensional flow theory,[3] which was considered by the American Society of Mechanical Engineers as one of the two most important breakthroughs of the 1950s in the development of turbomachinery, together with the invention of computers.[2]
+With the outbreak of the Korean War, Sino-American relations turned openly hostile, and Wu and Li decided they could no longer work for the US military.[2] They resigned from NACA and became professors at Polytechnic Institute of Brooklyn in 1951.[4] In 1954, they resolved to return to China. To avoid suspicion of the US government, the family flew to Britain in August for vacation, and travelled to China through Switzerland, Austria, Czechoslovakia, and the Soviet Union, arriving at the end of the year.[2]
+
+Career in China[edit]
+Statue of Wu Zhonghua at Jinling High School
+In Beijing, Wu was appointed professor and deputy head of the Mechanics Department of Tsinghua University, and established China's first turbomachinery program at Tsinghua in 1956.[2] The following year, he established a research lab in turboengines and internal combustion at the Institute of Mechanics of the Chinese Academy of Sciences (CAS). He was elected as an academician of the CAS in 1957. When the University of Science and Technology of China was established in 1958, he served as the head of the Department of Physics and Thermal Engineering.[2]
+Because of his outspoken criticism of the Great Leap Forward, he was denounced in 1958 as a "right-leaning" academic.[2] He was politically rehabilitated the following year and appointed Deputy Director of the Institute of Mechanics of the CAS in 1960.[1][2] His research program was among the many cancelled during the Great Famine. In the ensuing Socialist Education Movement, he was sent to perform manual work in rural Hongtong County in Shanxi for three years.[2] When the Cultural Revolution began in 1966, Wu was protected by Premier Zhou Enlai and PLA Air Force officers who valued his scientific contributions. He survived the turmoil unscathed, but his research was completely stopped until 1971, when the initial chaos of the revolution subsided.[2]
+After the end of the Cultural Revolution in 1976 and the normalization of Sino-American relations in 1979, Wu led a group of Chinese scientists to visit the United States for the first time since he returned to China in 1954.[2] In 1980, the CAS established the Institute of Engineering Thermophysics (IET), with Wu as its founding director.[2]
+Wu won the State Natural Science Award (Second Class) in 1957 and 1982. He was awarded the Major Discovery Prize by the CAS in 1975, and the Gold Award from the China Mechanical Engineering Association.[2] From 1981 to 1992, he served as an executive chairman of the CAS. He was elected to the Standing Committee of the 6th and 7th National People's Congress, and served from 1983 until his death in 1992.[2][4]
+
+Scientific contributions[edit]
+While working at NACA in 1950, Wu published the paper "A general theory of three-dimensional flow in subsonic and supersonic turbomachines of axial-, radial-, and mixed-flow types",[2][4] which pioneered the three-dimensional flow theory.[3] He reduced three-dimensional flow problems to problems of iterating two solutions of two independent variables. The relaxation or direct matrix method was used for subsonic flows and the method of characteristics for supersonic flows.[3]
+In the 1960s, he developed a body-fitted, nonorthogonal curvilinear coordinate system to improve computational accuracy. At the Institute of Engineering Thermophysics, he and his colleagues developed shock-fitting and artificial compressibility methods for solutions in two- and three-dimensional transonic flows.[3]
+Wu's theories have been widely used in the designs of aircraft engines, including the Teledyne CAE J69, Pratt & Whitney JT3D, Rolls-Royce Spey, Rolls-Royce RB211, Pratt & Whitney JT9D, and the General Electric F404.[3]
+
+Retirement and death[edit]
+Wu retired in June 1987. He was diagnosed with liver cancer soon afterwards, and was successfully treated by Dr. Wu Mengchao in Shanghai.[2] In 1990, Wu and Li were invited to teach at Clemson University for four months, and he gave a series of lectures at the NASA Lewis Research Center.[3]
+In 1992, Wu's cancer relapsed and metastasized to his lungs. He was hospitalized in August, and died on 19 September 1992 in Beijing, at the age of 75.[2][3][4] Soon after his death, NASA published Report 4496 (1993) on his general theory of turbomachinery. He had reviewed the final draft of the manuscript while in hospital.[3]
+On his 90th birthday in 2007, the Institute of Engineering Thermophysics established the Wu Zhonghua Scholarship Fund in his memory, which rewards outstanding graduate students and researchers in engineering thermophysics.[5]
+
+References[edit]
+
+
+^ a b c "Wu Zhonghua". Institute of Mechanics, Chinese Academy of Sciences. Retrieved 15 July 2018.
+
+^ a b c d e f g h i j k l m n o p q r s t "吴仲华先生生平" (in Chinese). Chinese Academy of Sciences. 25 July 2007. Retrieved 2 July 2018.
+
+^ a b c d e f g h Yang, Tah-teh (1993). "Foreword". In Wu, Chung-Hua (ed.). A General Theory of Two- and Three-Dimensional Rotational Flow in Subsonic and Transonic Turbomachines (PDF). NASA. pp. v–vii.  This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+^ a b c d Bartke, Wolfgang (2012). Who was Who in the People's Republic of China. Walter de Gruyter. p. 518. ISBN 978-3-11-096823-1.
+
+^ "吴仲华基金概况". Institute of Engineering Thermophysics (in Chinese). 14 August 2015. Archived from the original on 17 July 2018. Retrieved 17 July 2018.
+
+
+Further reading[edit]
+"A General Theory of Three-Dimensional Flow in Subsonic and Supersonic Turbomachines of Axial-, Radial, and Mixed-Flow Types" (NACA TN 2604) by Wu Zhonghua
+Authority control databases InternationalVIAFWorldCatNationalGermanyUnited StatesCzech Republic
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wu_Zhonghua&oldid=1246563598"
