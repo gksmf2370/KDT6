@@ -1,0 +1,108 @@
+You can help expand this article with text translated from the corresponding article in Spanish.  (December 2022) Click [show] for important translation instructions.
+View a machine-translated version of the Spanish article.
+Machine translation, like DeepL or Google Translate, is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
+Consider adding a topic to this template: there are already 949 articles in the main category, and specifying|topic= will aid in categorization.
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing Spanish Wikipedia article at [[:es:Poder Judicial de la Federación (México)]]; see its history for attribution.
+You may also add the template {{Translated|es|Poder Judicial de la Federación (México)}} to the talk page.
+For more guidance, see Wikipedia:Translation.
+The Judiciary of Mexico, officially the Judicial Power of the Federation (Spanish: Poder Judicial de la Federación; PJF), is one of the three branches of government in Mexico, and the sole federal judiciary power. It is composed of the Supreme Court of Justice of the Nation, which serves as its highest court, the Federal Judiciary Council, the Federal Electoral Tribunal, regional courts, circuit and appellate collegiate courts, and district courts.
+Its foundations can be found in Title III, Chapter IV (comprising fourteen articles) of the Constitution of Mexico and the Organic Law of the Judicial Power of the Federation. The Federal Jury of Citizens and the courts of the states and Mexico City can act in support of Federal Justice in cases provided for by the Constitution and the laws.
+The administration, oversight, and discipline of the Judiciary of Mexico, with the exception of the Supreme Court of Justice and the Electoral Tribunal, are entrusted to the Federal Judiciary Council. In this branch and its ensemble of institutions, the authority to administer justice in all institutional aspects of the Mexican state is vested, including the application of legal norms and principles in conflict resolution, and in all areas of law enforcement and interpretation in society (civil, criminal, constitutional, commercial, labor, administrative, fiscal, procedural, etc.).[1][2][3]
+
+
+Supreme Court of Justice of the Nation[edit]
+Main article: Supreme Court of Justice of the Nation
+The Supreme Court of Justice of the Nation is the Constitutional Court of Mexico and the court of last resort within the Judiciary of Mexico. It is composed of eleven justices who act in plenary sessions or in chambers assigned to specific jurisdictions. Its president acts as its highest authority, representative to the other branches of government, and also serves as the leader of the Judiciary Council. This institution is responsible for defending the order established by the Constitution, maintaining a balance between the various powers and organs of government, and providing definitive resolutions on judicial matters of great social relevance through its jurisdictional decisions. Due to its status as the primary and highest court of constitutional nature, there is no authority or organ above it, and no judicial recourse can be filed against its decisions.
+
+Federal Electoral Tribunal[edit]
+Main article: Federal Electoral Tribunal
+The Federal Electoral Tribunal is a specialized body of the Judiciary of Mexico, responsible for resolving electoral disputes, protecting the political and electoral rights of citizens, and administering justice in the electoral field. Currently, it is composed of a Superior Chamber, consisting of seven electoral judges; five regional chambers, each composed of three judges; and a Specialized Regional Chamber, also consisting of three members. The functions of administration, oversight, and discipline of the Tribunal correspond to its Administrative Commission.
+
+Circuit Courts[edit]
+Circuit Courts are those with judicial jurisdiction in specific territorial areas called circuits, which are determined by law through the Judiciary Council. They are divided into two categories based on their scope of jurisdiction and composition: Collegiate Courts and Unitary Courts.
+
+Collegiate Circuit Courts[edit]
+Collegiate Circuit Courts are composed of three judges, each with their own docket. They frequently hold meetings called "sessions" to resolve the cases presented before them. Their competencies are listed in Article 37 of the Organic Law of the Judicial Power of the Federation. These include but are not limited to: direct amparo proceedings against final judgments, conflicts of jurisdiction arising between unitary circuit courts or district judges within their jurisdiction in amparo proceedings, and other matters expressly entrusted to them by law or the general agreements issued by the Supreme Court of Justice of the Nation.
+
+Unitary Circuit Courts[edit]
+Unitary Circuit Courts are federal courts composed of a single judge with specific powers and competencies. According to Article 29 of the Organic Law of the Judicial Power of the Federation, their competencies include but are not limited to: the appeal of cases heard in first instance by the district courts, the recourse of denied appeal, and disputes arising among the district judges under their jurisdiction, except in amparo proceedings.
+
+District Courts[edit]
+District courts are the trial courts of first instance within the Judiciary of Mexico. They are the basic units within the justice system and are presided over by a district judge. Consequently, their powers and competencies depend on the subject matter assigned to them in accordance with Articles 50 to 55-bis of the Organic Law of the Judicial Power of the Federation. However, in general terms, they are responsible for resolving the following:
+
+Lawsuits related to the application of federal laws in civil, criminal, and administrative matters, as well as international treaties, and
+Indirect amparo proceedings in civil, criminal, administrative, and labor matters. Some of these courts specialize in a single subject matter, such as criminal, administrative, civil, or labor law, while others handle two or more subject matters.
+Federal Jury of Citizens[edit]
+The Federal Jury of Citizens is the competent body to resolve, through a verdict, the issues of fact submitted to it by the district judges in accordance with the law. It consists of 7 citizens appointed by lottery, in the terms established by the Federal Code of Criminal Procedure.
+It has jurisdiction over crimes committed, through the press, against public order or the national security, both external and internal, and any others determined by the laws.
+
+Federal Judiciary Council[edit]
+The Federal Judicial Council is the body responsible for the administration, oversight, discipline, and judicial career of the Judiciary of Mexico, with the exception of the Supreme Court of Justice of the Nation and the Federal Electoral Tribunal. Additionally, it must always ensure the autonomy of the organs of the Judiciary of Mexico and the independence and impartiality of its members.
+It is composed of seven members: the President of the Supreme Court of Justice of the Nation, who also serves as the President of the Council; three councilors appointed by the plenary of the Supreme Court of Justice of the Nation from among the circuit judges and district judges; two councilors appointed by the Senate, and one appointed by the President.
+All councilors, except the president, serve a five-year term, replaced in a staggered manner, and whose term is non-renewable. The councilors do not represent those who appoint them, so they must exercise their function with independence and impartiality.
+The Council operates as a plenary or in committees. The plenary makes decisions regarding the appointment, assignment, ratification, and removal of judges, as well as other matters determined by law. Meanwhile, the committees are responsible for administration, judicial career, discipline, the creation of new organs, and assignments.
+
+See also[edit]
+2024 Mexican judicial reform
+References[edit]
+
+
+^ "Mexico Constitution Article 49" (PDF).
+
+^ "Mexican Constitution article 94" (PDF).
+
+^ "Organic Law of the Judicial Power of the Federation" (PDF).
+
+
+vteJudiciaries of North AmericaSovereign states
+Antigua and Barbuda
+Bahamas
+Barbados
+Belize
+Canada
+Costa Rica
+Cuba
+Dominica
+Dominican Republic
+El Salvador
+Grenada
+Guatemala
+Haiti
+Honduras
+Jamaica
+Mexico
+Nicaragua
+Panama
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Trinidad and Tobago
+United States
+Dependencies andother territories
+Anguilla
+Aruba
+Bermuda
+Bonaire
+British Virgin Islands
+Cayman Islands
+Curaçao
+Greenland
+Guadeloupe
+Martinique
+Montserrat
+Puerto Rico
+Saint Barthélemy
+Saint Martin
+Saint Pierre and Miquelon
+Saba
+Sint Eustatius
+Sint Maarten
+Turks and Caicos Islands
+United States Virgin Islands
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Judiciary_of_Mexico&oldid=1246510074"

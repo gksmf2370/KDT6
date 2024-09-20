@@ -1,0 +1,51 @@
+Logo Creative Commons
+Lisensi Creative Commons adalah beberapa lisensi hak cipta yang diterbitkan pada 16 Desember 2002 oleh Creative Commons, suatu perusahaan nirlaba Amerika Serikat yang didirikan pada tahun 2001. Banyak di antara lisensi-lisensi tersebut, terutama lisensi orisinal, yang memberikan "hak dasar",[1] seperti hak untuk mendistribusikan karya berhak cipta tanpa perubahan, tanpa biaya apapun. Lisensi Creative Commons juga menyediakan alat domain publik, sehingga Lisensi Creative Commons memungkinkan pencipta/penulis/pemilik hak cipta untuk mendedikasikan karya mereka ke domain publik di seluruh dunia, dan memfasilitasi pelabelan dan penemuan karya yang sudah bebas dari batasan hak cipta yang diketahui.[2] Beberapa lisensi yang lebih baru tidak memberikan hak tersebut. Lisensi Creative Commons saat ini tersedia dalam 34 yurisdiksi yang berbeda di seluruh dunia, dengan sembilan lainnya dalam tahap pengembangan.[3]
+
+
+Lisensi asli[sunting | sunting sumber]
+Spektrum Creative Commons antara domain publik (atas) dan hak cipta dilindungi undang-undang (bawah). Sisi kiri adalah penggunaan yang diperbolehkan, dan sisi kanan adalah komponen lisensi. Hijau tua adalah lisensi yang memenuhi Pengertian Karya Seni Budaya Bebas. Hijau tua dan hijau muda memperbolehkan menggubah atau membuat karya turunannya.
+Semua lisensi original memberikan "hak dasar". Detail masing-masing lisensi ini bergantung pada versi, dan terdiri dari pilihan empat kondisi:[4]
+
+Atribusi (attribution, A, “BY”): Mengizinkan orang lain untuk menyalin, mendistribusikan, menampilkan, serta membuat karya turunan berdasarkan suatu karya hanya jika orang tersebut memberikan penghargaan pada pencipta atau pemberi lisensi berupa atribusi atau pencantuman judul ciptaan, nama pencipta, sumber, dan lisensi creative commons yang digunakan atau dengan cara yang disebutkan dalam lisensi.
+Nonkomersial (noncommercial, NK, “NC”): Mengizinkan orang lain menyalin, mendistribusikan, menampilkan, serta membuat karya turunan berdasarkan suatu karya hanya untuk tujuan nonkomersial.
+TanpaTurunan (no derivative works, noderivs, TKT, “ND”): Mengizinkan orang lain menyalin, mendistribusikan, dan menampilkan hanya salinan sama persis (verbatim) suatu karya, bukan karya turunan yang berdasarkan karya tersebut.
+BerbagiSerupa (share-alike, BS, “SA”): Mengizinkan orang lain untuk mendistribusikan suatu karya turunan hanya di bawah suatu lisensi yang identik dengan lisensi yang diberikan pada karya aslinya (lihat pula copyleft).
+Penggabungan dan pencocokan kondisi-kondisi tersebut menghasilkan enam belas kemungkinan kombinasi, dengan sebelas di antaranya adalah lisensi Creative Commons yang valid. Dari lima kombinasi yang tak valid, empat di antaranya mencakup baik klausa “nd” maupun “sa” yang saling eksklusif satu dengan yang lain; dan satunya lagi tidak mencakup satu pun klausa, yang berarti melepas hak suatu karya dalam domain publik. Lima di antara sebelas lisensi valid yang tak mencakup unsur Atribusi sudah (hampir) tak digunakan karena 98% pemberi lisensi meminta Atribusi, tetapi masih dapat dilihat di situs web.[4] Ada enam lisensi yang umumnya dipergunakan:
+
+Enam lisensi umum CC
+
+Atribusi saja (BY): Pencipta (termasuk pemberi lisensi) diberi kredit
+Atribusi-NonKomersial (BY-NC): Pencipta diberi kredit dan hanya untuk tujuan nonkomersial saja.
+Atribusi-TanpaTurunan (BY-ND): Pencipta diberi kredit dan hanya karya verbatim (yang sama persis) saja.
+Atribusi-BerbagiSerupa (BY-SA): Pencipta diberi kredit dan karya boleh diturunkan dengan lisensi yang identik.
+Atribusi-NonKomersial-TanpaTurunan (BY-NC-ND): Pencipta diberi kredit dan hanya karya verbatim saja untuk tujuan nonkomersial saja.
+Atribusi-NonKomersial-BerbagiSerupa (BY-NC-SA): Pencipta diberi kredit dan boleh diturunkan dengan lisensi yang identik untuk tujuan nonkomersial saja.
+Lihat pula[sunting | sunting sumber]
+Wikipedia:Teks Lisensi Creative Commons Atribusi-PembagianSerupa 3.0
+Catatan kaki[sunting | sunting sumber]
+
+
+^ Baseline rights and restrictions in CC licenses
+
+^ Belawati, Tian (2021). Sistem Pendidikan Terbuka dan Jarak Jauh (PDF). Tangerang Selatan: Universitas Terbuka. hlm. 1.11. ISBN 9786233121279.  Parameter |url-status= yang tidak diketahui akan diabaikan (bantuan)
+
+^ Creative Commons Worldwide
+
+^ a b Creative Commons Licenses
+
+
+Pranala luar[sunting | sunting sumber]
+
+
+
+Wikisumber memiliki naskah asli yang berkaitan dengan artikel ini:
+Creative Commons Attribution-ShareAlike License
+
+(Inggris) Full selection of licenses
+(Inggris) Creative Commons web site
+(Inggris) Debian-legal Summary of Creative Commons 2.0 Licenses
+
+
+
+
+Diperoleh dari "https://id.wikipedia.org/w/index.php?title=Lisensi_Creative_Commons&oldid=26168814"

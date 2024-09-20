@@ -1,0 +1,132 @@
+
+Ne doit pas être confondu avec Aide:Jargon de Wikipédia.
+
+
+En sociolinguistique, le terme jargon, emprunté au français par les linguistiques de diverses langues, désigne une variété de langue et un sociolecte[1]. Il n’y a pas d’unanimité chez les linguistes pour le définir et le caractériser. Le seul trait commun est qu’un jargon est employé par une catégorie de locuteurs et qu'il n’est pas compris par les autres.
+Ce trait caractérise également ce qu’on appelle « l'argot » en français et le slang en anglais. C’est pourquoi certains considèrent les termes « jargon », « argot » et slang comme des synonymes[2].
+
+
+Interprétations du terme « jargon »[modifier | modifier le code]
+Le mot « jargon » désignait à l’origine, au Moyen Âge, en France, un langage secret des malfaiteurs, et c’est leur milieu qui s’appelait « argot », on parlait donc du « jargon de l’argot »[3]. À partir de la fin du XVIIe siècle, le terme « jargon » est peu à peu remplacé par « argot » avec le même sens[4].
+Dans la linguistique française il y a des acceptions différentes du terme. Selon certains auteurs, par exemple Grevisse et Goosse 2007, on l’utilise dans la langue commune avec un sens péjoratif, pour un langage jugé incompréhensible. Ainsi, on parle de « jargon des philosophes », « jargon des théologiens »[5], etc. Dans d’autres ouvrages, par exemple Turpin 2002, c’est un terme de linguistique pour nommer les langages oraux des professions, métiers et occupations. Tel serait, par exemple, le langage des mineurs ou celui des médecins[6]. Par contre, Grevisse et Goosse 2007 se réfère aux langages des gens de certains métiers comme à des argots. Dans Dubois 2002, on trouve pour ceux-ci le terme « argot » dans un article[7] et « jargon » dans un autre. Pour le même auteur, « jargon » a aussi le sens donné par Grevisse et Goosse 2007, ex. « jargon d’un mauvais élève », « jargon franglais », ou de langage d’un groupe utilisé pour se distinguer du commun, ex. « jargon des précieuses »[1].
+Dans la linguistique roumaine, on trouve pour « jargon » le sens de langage spécifique pour des catégories sociales aisées et de certaines professions (médecins, avocats, etc.), utilisé par d’autres catégories sociales aussi pour se distinguer de la masse des autres locuteurs[8]. On trouve aussi ce terme étendu à tout langage technique ayant une terminologie de spécialité, scientifique ou autre[9].
+Dans la linguistique hongroise, « jargon » apparaît avec les sens de la linguistique roumaine, plus ce qu’on appelle « langue de bois » des politiciens. En tant que langage limité à une catégorie d’initiés, le jargon est en même temps considéré comme une variété plus large, incluant ainsi l’argot et le slang comme des types de jargons[10],[11],[12],[13].
+Dans la linguistique russe, on rencontre le terme « jargon » avec des sens ci-dessus (ex. « jargon de la noblesse du XIXe siècle », « jargon des programmeurs »), ainsi que pour dénommer le langage des passe-temps (ex. « jargon des philatélistes »), mais aussi pour des langages caractérisés dans d’autres linguistiques comme des argots ou des slangs, ex. « jargon de la jeunesse », « jargon des militaires »[14].
+Dans la linguistique de langue anglaise, on trouve le terme jargon avec le sens de langage de spécialité inaccessible aux non spécialistes, utilisé dans les technologies et les sciences[15]. On parle de jargon des linguistes, de l’informatique, de la publicité, des fermiers, etc.[16]
+
+Exemples de jargons[modifier | modifier le code]
+Certains jargons étaient ceux de catégories de l’élite, par exemple le langage des « précieuses », aristocrates françaises du XVIIe siècle. C’était l’époque où on établissait les normes de la langue littéraire française classique, qui prescrivaient, entre autres, la « noblesse du style », entendue aussi comme utilisation d’un vocabulaire « noble », différent de celui de la langue des catégories sociales situées sous le niveau de la noblesse. Les précieuses créaient des néologismes et des périphrases pour remplacer certains mots communs, telles les écluses du cerveau « nez », les coussinets d’amour « seins », le conseiller des grâces « miroir », l’affronteur des temps « chapeau », qui ne sont pas sorties de leur cercle. Néanmoins, c’est du jargon des précieuses que proviennent des mots du français courant actuel comme féliciter, s’enthousiasmer, bravoure, anonyme, incontestable, pommade[17].
+Dans d’autres langues, le jargon de certaines catégories de l’élite se caractérisait par l’utilisation de mots étrangers non intégrés à la langue. En roumain, par exemple, à l’époque des princes régnants phanariotes (XVIIIe siècle, début du XIXe siècle), c’étaient des mots grecs, plus tard, comme un corollaire de l’ouverture vers l’Occident – des mots français plus ou moins déformés, ex. demoiselle, bonjour, bonsoir, charmant, toujours, merci[8]. Parmi ceux-ci, le registre de langue familier a gardé mersi « merci ».
+En hongrois aussi il y avait un jargon des catégories de l’élite et de la petite bourgeoisie qui cherchait à les imiter, caractérisé également par des mots étrangers, allemands et français, ex. snájdig « beau, élégant » (cf. (de) schneidig), hercig « jolie » (cf. (de) herzig)[11], gáláns (cf. (fr) galant), rúzs (cf. (fr) « rouge (à lèvres »). Ce dernier mot est toujours actuel dans le registre courant[13].
+Le jargon de la noblesse russe du XIXe siècle se caractérisait également par l’emploi fréquent de mots français[14].
+Les spécialistes d’un domaine ou d’un autre ont eux aussi leur jargon, qu’ils emploient normalement en communiquant entre eux, et que les profanes ne comprennent pas. Il arrive qu’ils parlent de leur domaine à des non-initiés aussi et que ceux-ci ne les comprennent pas, non parce que telle est l’intention du locuteur, mais parce que celui-ci ne sait pas adapter son discours à ses destinataires. Il peut aussi s’agir d’un jargon de spécialité utilisé avec l’intention qu’il ne soit pas compris ou pour masquer la réalité. C’est parfois le cas du langage des politiciens[12], appelé « langue de bois »[18], ou du langage de la propagande[19].
+Si les autres jargons ne diffèrent de la langue commune que par leur vocabulaire, les langages scientifiques et techniques, qui ont aussi un aspect écrit, se caractérisent, du moins en principe, par d’autres traits aussi, y compris grammaticaux et discursifs, tels la précision de l’expression, l’évitement de la synonymie, le style nominal (emploi fréquent de noms dérivés de verbes plutôt que de verbes), l’utilisation fréquente de constructions impersonnelles, la cohérence et la cohésion du discours oral et écrit, etc.[15],[20].
+Les jargons des locuteurs unis par certains passe-temps (pêcheurs, chasseurs, etc.) diffèrent de ceux scientifiques et techniques par l’absence des traits ci-dessus et par le plaisir d’employer des expressions spécifiques, ainsi que par la fonction d’affirmation de l’appartenance au groupe en cause[20].
+Certains jargons de spécialité se caractérisent par le mélange, dans la parole, de la terminologie utilisée dans des ouvrages de spécialité avec des mots employés seulement dans la parole. Par exemple, un informaticien français écrit ordinateur dans un ouvrage de spécialité, mais en parlant avec un collègue, il dit bécane, babasse ou chiotte[21]. De même, un spécialiste hongrois en construction écrit betonadalék « granulat pour béton », mais en parlant sur un chantier, il dit sóder « gravier mélangé de sable »[12].
+Les jargons sont principalement des variétés orales, sauf les langages scientifiques et techniques, qui sont écrits aussi, mais depuis qu’il y a internet, il existe également des jargons seulement écrits, comme le jargon du clavardage, de certains forums de discussion ou de Wikipédia[22].
+Les jargons se distinguent de la langue commune par leurs vocabulaires spécifiques, mais leurs systèmes phonologique et grammatical ne diffèrent pas essentiellement de ceux de la langue en général. Si l’on considère comme des jargons tous les langages mentionnées ici, tels jargons diffèrent de tels autres par les registres de langue dont ils sont proches. Ainsi, par exemple, l’aspect écrit des langages de spécialité a le système grammatical et discursif des registres courant ou soutenu, avec certaines spécificités[15],[11], et les langages oraux des professions, métiers, occupations et passe-temps sont proches des registres populaire ou familier, comme les argots, par leur système grammatical et leurs procédés de formation des mots[6].
+
+Notes et références[modifier | modifier le code]
+
+↑ a et b Dubois 2002, p. 435.
+
+↑ Cf. Tender 1997, p. 100.
+
+↑ Cf. Ollivier Chereau, Le Jargon ou Langage de l’Argot reformé, Troyes, chez Nicolas Oudot, 1629, cité par Szabó 1997, p. 160.
+
+↑ Szabó 1997, p. 160.
+
+↑ Grevisse et Goosse 2007, p. 25.
+
+↑ a et b Turpin 2002.
+
+↑ Dubois 2002, p. 49.
+
+↑ a et b Constantinescu-Dobridor 1998, article jargon.
+
+↑ Bidu-Vrănceanu 1997, p. 266.
+
+↑ Kálmán et Trón 2007, p. 38.
+
+↑ a b et c Zsemlyei 2009, p. 9-10.
+
+↑ a b et c A. Jászó 2007, p. 56-57.
+
+↑ a et b Bokor 2007, p. 188-190.
+
+↑ a et b Iartseva 1990, article Жарго́н « jargon ».
+
+↑ a b et c Bussmann 1998, p. 607.
+
+↑ Eifring et Theil 2005, chap. 7, p. 12.
+
+↑ Leclerc 2019, 6. Le français au Grand Siècle.
+
+↑ Krieg-Planque 2019.
+
+↑ L’écrivain et philologue allemand Viktor Klemperer a décrit ce genre de langage en Allemagne nazie, dans son livre LTI – Lingua Tertii Imperii: Notizbuch eines Philologen (Langue du Troisième Reich : carnet d’un philologue), Berlin, Aufbau, 1947. En s’inspirant du titre de ce livre, Éric Hazan a écrit LQR : la propagande du quotidien, Raisons d’agir, 2006 (LQR comme lingua quintae reipublicae « langue de la Cinquième République »).
+
+↑ a et b Szabó 1997, p. 170.
+
+↑ Le Jargon Français, article bécane.
+
+↑ Voir Aide:Jargon de Wikipédia.
+
+
+
+Bibliographie[modifier | modifier le code]
+ : document utilisé comme source pour la rédaction de cet article.
+
+(hu) A. Jászó, Anna, « Általános ismeretek a nyelvről és a nyelvtudományról » [« Connaissances générales sur la langue et la linguistique »], A. Jászó, Anna (dir.), A magyar nyelv könyve [« Le livre de la langue hongroise »], 8e édition, Budapest, Trezor, 2007  (ISBN 978-963-8144-19-5), p. 11-72 (consulté le 5 octobre 2019) .
+(ro) Bidu-Vrănceanu, Angela et al., Dicționar general de științe. Științe ale limbii [« Dictionnaire général des sciences. Sciences de la langue »], Bucarest, Editura științifică, 1997  (ISBN 973-440229-3) (consulté le 5 octobre 2019) .
+(hu) Bokor, József, « Szókészlettan » [« Lexicologie »], A. Jászó, Anna (dir.), A magyar nyelv könyve [« Le livre de la langue hongroise »], 8e édition, Budapest, Trezor, 2007  (ISBN 978-963-8144-19-5), p. 164-196 (consulté le 5 octobre 2019) .
+(en) Bussmann, Hadumod (dir.), Dictionary of Language and Linguistics [« Dictionnaire de la langue et de la linguistique »], Londres – New York, Routledge, 1998  (ISBN 0-203-98005-0) (consulté le 5 octobre 2019) .
+(ro) Constantinescu-Dobridor, Gheorghe, Dicționar de termeni lingvistici [« Dictionnaire de termes linguistiques »], Bucarest, Teora, 1998 ; en ligne : Dexonline (DTL) (consulté le 5 octobre 2019) .
+Dubois, Jean et al., Dictionnaire de linguistique, Paris, Larousse-Bordas/VUEF, 2002 (consulté le 4 avril 2023) .
+(en) Eifring, Halvor et Theil, Rolf, Linguistics for Students of Asian and African Languages [« Linguistique pour les étudiants en langues asiatiques et africaines »], Université d’Oslo, 2005 (consulté le 5 octobre 2019) .
+Grevisse, Maurice, et Goosse, André, Le Bon Usage. Grammaire française, 14e édition, Bruxelles, De Boeck Université, 2007  (ISBN 978-2-8011-1404-9) (consulté le 4 avril 2023) .
+(ru) Iartseva, V. N. (dir.), Лингвистический энциклопедический словарь [« Dictionnaire encyclopédique de linguistique »], Moscou, Sovietskaïa Entsiklopedia, 1990 (consulté le 5 octobre 2019) .
+(hu) Kálmán, László et Trón, Viktor, Bevezetés a nyelvtudományba [« Introduction à la linguistique »], 2de édition, augmentée, Budapest, Tinta, 2007  (ISBN 978-963-7094-65-1) (consulté le 4 avril 2023) .
+(hu) Kis, Tamás (dir.), A szlengkutatás útjai és lehetőségei [« Voies et possibilités de la recherche du slang »], Debrecen, Kossuth Egyetemi Kiadó, 1997,  (ISBN 963-472-181-8), p. 237-296 ; en ligne : A szlengkutatás útjai és lehetőségei (fichier Word, RTF ou TTF à décharger) (consulté le 5 octobre 2019). Chapitres :
+Szabó, Dávid, « A francia argó » [« L’argot français »], p. 159-181
+Tender, Tõnu, « Az észt szleng és kutatása » [« Le slang estonien et les recherches le concernant »], p. 91-118 .
+Krieg-Planque, Alice, Langue de bois, Publictionnaire. Dictionnaire encyclopédique et critique des publics, mis à jour le 27 février 2019 (consulté le 5 octobre 2019) .
+Leclerc, Jacques, Histoire de la langue française, Agence intergouvernementale de la Francophonie, 2019 (consulté le 5 octobre 2019) .
+Perret, Pierre, Le parler des métiers, Paris, Laffont, 2003,  (ISBN 2221096444)
+(hu) Zsemlyei, János, « A mai magyar nyelv szókészlete » [« Lexique du hongrois d’aujourd’hui »], fragments du cours universitaire A mai magyar nyelv szókészlete és szótárai [« Lexique et dictionnaires du hongrois d’aujourd’hui »], Cluj-Napoca, Erdélyi Tankönyvtanács, 2002 ; en ligne : 1re partie, 2009 (consulté le 5 octobre 2019) .
+Voir aussi[modifier | modifier le code]
+
+Sur les autres projets Wikimedia :
+
+Jargon, sur le Wiktionnaire
+
+
+Articles connexes[modifier | modifier le code]
+
+Argot
+Buzzword
+Globish
+Jargon informatique
+Jargon militaire
+Leet speak
+Lingua Tertii Imperii
+Liste de termes d'argot Internet
+LQR
+Novlangue
+Sociolecte
+Variété (linguistique)
+Sabir
+Pidgin
+
+Liens externes[modifier | modifier le code]
+Dictionnaire de l’argot des typographes 1883
+Le jargon du cheminot
+Le jargon français (dictionnaire d'informatique francophone)
+Jargon Informatique (dictionnaire d'informatique)
+Les langages hermétiques (spectacle des Inconnus)
+ Portail de la linguistique   Portail des langues  
+
+
+
+
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Jargon&oldid=202979600 ».
