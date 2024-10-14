@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이미지 태그</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #444;
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            transition: transform 0.3s;
+        }
+        a:hover {
+            transform: scale(1.05);
+        }
+        img {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .back-to-top {
+            margin-top: 40px;
+            display: inline-block;
+            text-decoration: none;
+            color: #007BFF;
+            transition: color 0.3s;
+        }
+        .back-to-top:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="start_h1">이미지 태그 img</h1>
+    <!-- 이미지 태그 : 이미지를 브라우저 화면에 출력해주는 태그 -->
+    <!-- src 속성 : 브라우저 화면에 보여줄 이미지 링크/경로 -->
+    <img src="" alt="존재하지 않는 이미지" width="100" height="100"><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGWmt3E_FYO6DUTWQc0VYizREjAXDGn2rXA&s" alt="존재하지 않는 이미지" width="30%" height="20%"><br>
+    
+    <!-- 이미지와 링크 -->
+    <a href="http://www.naver.com" target="_blank">
+        <img src="data:image/jpeg;base64,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" width="200" height="300">
+    </a>
+    
+    <!-- 이미지와 HTML 파일 링크 -->
+    <a href="./ex_list.html" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOTLwZilDY7z02z5mDMFq9JOPvPFERk2bdQ&s" width="200" height="300">
+    </a>
+
+    <!-- 페이지의 처음으로 이동 링크 설정 -->
+    <a href="#start_h1" class="back-to-top">페이지의 처음으로 이동</a>
+</body>
+</html>
