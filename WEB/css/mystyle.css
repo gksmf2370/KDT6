@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(216, 7, 7);
+}
+#secondp {
+    background-color: rgb(120, 50, 155);
+    color: aliceblue;
+    font-weight: bold;
+}
+body {
+    align-content: center;
+    background-image: url('../images/monkey.png');
+}
+.mon {
+    background-color: pink;
+}
