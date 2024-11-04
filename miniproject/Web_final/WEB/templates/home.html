@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> 줄거리 입력</title>
+</head>
+<body>
+    <h1>줄거리 입력</h1>
+    <form method="POST">
+        <textarea name="text" rows="4" cols="50">{{ text }}</textarea>
+        <br>
+        <input type="submit" value="분석하기">
+    </form>
+    {% if msg %}
+    <div class="result">
+        {{ msg }}
+    </div>
+    {% endif %}
+</body>
+</html>
