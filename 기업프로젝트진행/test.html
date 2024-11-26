@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafana Dashboard</title>
+    <script>
+        window.onload = function () {
+            const refreshInterval = 5000; // 5초 간격
+            const iframe = document.getElementById('grafana-iframe');
+
+            function updateIframe() {
+                const now = new Date().getTime();
+                const iframeUrl = `http://localhost:3000/d-solo/ee4aly7ncq48we/new-dashboard?from=${now - 300000}&to=${now}&refresh=5s&orgId=1&panelId=2&__feature.dashboardSceneSolo`;
+                iframe.src = iframeUrl;
+            }
+
+            // 처음에는 빈 iframe을 보여주고
+            iframe.src = "about:blank";
+
+            // 2초 뒤에 첫 URL 로드
+            setTimeout(updateIframe, 2000);
+
+            // 이후 5초마다 업데이트
+            setInterval(updateIframe, refreshInterval);
+        };
+    </script>
+</head>
+<body>
+    <iframe id="grafana-iframe" width="450" height="200" frameborder="0" loading="lazy"></iframe>
+</body>
+</html>
+
+
