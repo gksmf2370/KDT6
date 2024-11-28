@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>누적 로스 현황</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            padding-top: 20px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        .date-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        input[type="date"] {
+            padding: 5px 10px;
+            font-size: 14px;
+        }
+
+        button {
+            padding: 8px 16px;
+            font-size: 14px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .chart-container {
+            width: 800px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        canvas {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <a href="/admin/loss" class="button">누적 로스 현황</a>
+        <a href="/admin/production" class="button">고무링 생산 현황</a>
+    </div>
+
+    <h1>누적 로스 현황</h1>
+
+    <div class="date-container">
+        <label for="start-date">시작 날짜:</label>
+        <input type="date" id="start-date">
+        <label for="end-date">종료 날짜:</label>
+        <input type="date" id="end-date">
+        <button onclick="updateData()">조회</button>
+    </div>
+
+    <div class="chart-container">
+        <canvas id="loss-chart"></canvas>
+    </div>
+
+    <script>
+        let chart;
+
+        function updateData() {
+            const startDate = $('#start-date').val();
+            const endDate = $('#end-date').val();
+
+            if (!startDate || !endDate) {
+                alert('시작 날짜와 종료 날짜를 입력해주세요.');
+                return;
+            }
+
+            $.ajax({
+                url: `/admin/data?start_date=${startDate}&end_date=${endDate}`,
+                method: 'GET',
+                success: function(data) {
+                    const labels = [];
+                    const cumulativeLoss = [];
+                    let totalLoss = 0;
+
+                    data.forEach(row => {
+                        labels.push(row.timestamp);
+                        totalLoss += row.loss;
+                        cumulativeLoss.push(totalLoss);
+                    });
+
+                    if (chart) {
+                        chart.data.labels = labels;
+                        chart.data.datasets[0].data = cumulativeLoss;
+                        chart.update();
+                    } else {
+                        const ctx = $('#loss-chart')[0].getContext('2d');
+                        chart = new Chart(ctx, {
+                            type: 'line',
+                            data: {
+                                labels: labels,
+                                datasets: [
+                                    {
+                                        label: '누적 Loss',
+                                        data: cumulativeLoss,
+                                        borderColor: 'red',
+                                        fill: false
+                                    }
+                                ]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: {
+                                        display: true,
+                                    }
+                                },
+                                scales: {
+                                    x: {
+                                        title: {
+                                            display: true,
+                                            text: '날짜'
+                                        }
+                                    },
+                                    y: {
+                                        title: {
+                                            display: true,
+                                            text: '누적 Loss'
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                    }
+                },
+                error: function() {
+                    alert('데이터를 가져오는 데 실패했습니다.');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

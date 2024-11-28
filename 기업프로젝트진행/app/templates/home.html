@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>홈 페이지</title>
+    <style>
+        /* 페이지 중앙 정렬 */
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* 화면 전체 높이 */
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5; /* 배경색 추가 */
+        }
+
+        .logo-container {
+            margin-bottom: 30px; /* 로고와 버튼 간격 */
+        }
+
+        .logo-container img {
+            width: 200px; /* 로고 크기 조정 */
+            height: auto; /* 비율 유지 */
+        }
+
+        h1 {
+            font-size: 36px; /* 제목 크기 */
+            margin-bottom: 30px; /* 버튼과의 간격 */
+        }
+
+        /* 버튼 컨테이너 */
+        .button-container {
+            display: flex;
+            gap: 30px; /* 버튼 간 간격 */
+        }
+
+        /* 카드 스타일 */
+        .card {
+            width: 220px; /* 카드 너비 증가 */
+            height: 270px; /* 카드 높이 증가 */
+            border: 2px solid #ddd; /* 테두리 */
+            border-radius: 10px; /* 모서리 둥글게 */
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* 그림자 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            transition: transform 0.3s ease, box-shadow 0.3s ease; /* 애니메이션 효과 */
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-5px); /* 호버 시 살짝 위로 이동 */
+            box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2); /* 호버 시 그림자 강조 */
+        }
+
+        /* 이미지 스타일 */
+        .card img {
+            width: 150px; /* 이미지 크기 증가 */
+            height: 150px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 회사 로고 -->
+    <div class="logo-container">
+        <img src="{{ url_for('static', filename='logo_c.png') }}" alt="Company Logo">
+    </div>
+
+    <h1>사용자 선택</h1>
+    <div class="button-container">
+        <!-- 작업자 버튼 -->
+        <div class="card" onclick="location.href='/worker'">
+            <img src="{{ url_for('static', filename='KakaoTalk_20241128_161316151.jpg') }}" alt="작업자">
+        </div>
+        <!-- 관리자 버튼 -->
+        <div class="card" onclick="location.href='/admin'">
+            <img src="{{ url_for('static', filename='KakaoTalk_20241128_161316151_01.jpg') }}" alt="관리자">
+        </div>
+    </div>
+</body>
+</html>
+
