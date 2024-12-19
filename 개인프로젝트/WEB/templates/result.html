@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>방전 결과</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>설비 진행 상황</h1>
+    <div class="grid-container">
+        <!-- 설비 리스트 -->
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == 'TFR-CV' %}highlight{% endif %}">TFR-CV</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == 'ACSR-OC' %}highlight{% endif %}">ACSR-OC</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == 'CNCV-W' %}highlight{% endif %}">CNCV-W</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '단상유입변압기' %}highlight{% endif %}">단상 유입변압기</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '전력용유입변압기' %}highlight{% endif %}">전력용 유입변압기</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '계기용변압기' %}highlight{% endif %}">계기용 변압기</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '7.2kV배전반' %}highlight{% endif %}">7.2kV 배전반</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '22.9kV배전반' %}highlight{% endif %}">22.9kV 배전반</p>
+        </div>
+        <div class="equipment">
+            <img src="/static/images/설비아이콘.png" alt="설비 이미지">
+            <p class="location {% if location == '25.8kV_GIS' %}highlight{% endif %}">25.8kV GIS</p>
+        </div>
+    </div>
+    <!-- 하단 장소 및 설명 박스 -->
+    <div class="description-box">
+        <p>장소: <span>{{ location }}</span></p>
+        <p>{{ description }}</p>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,75 @@
+/* 전체 배경 및 글꼴 설정 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+/* 제목 스타일 */
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* 그리드 컨테이너 */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3열 레이아웃 */
+    gap: 10px;
+    justify-items: center;
+}
+
+/* 설비 박스 스타일 */
+.equipment {
+    text-align: center;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 150px;
+    transition: transform 0.3s;
+}
+
+.equipment:hover {
+    transform: scale(1.1);
+}
+
+/* 설비 이미지 스타일 */
+.equipment img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* 장소 텍스트 스타일 */
+.location {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
+/* 발생 장소 강조 */
+.location.highlight {
+    color: red;
+}
+
+/* 하단 정보 박스 */
+.description-box {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+.description-box span {
+    color: red; /* 강조 표시 */
+}

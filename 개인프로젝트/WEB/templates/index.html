@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRPD 방전 예측 시스템</title>
+    <style>
+        /* 전체 배경 및 기본 설정 */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        /* 컨테이너 스타일 */
+        .container {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+
+        /* 제목 스타일 */
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* 폼 그룹 스타일 */
+        .form-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        /* 라벨 스타일 */
+        label {
+            font-size: 14px;
+            color: #555;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        /* 파일 업로드 필드 스타일 */
+        input[type="file"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        /* 버튼 스타일 */
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PRPD 방전 예측 시스템</h1>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="prpd_image">PRPD 이미지 업로드:</label>
+                <input type="file" name="prpd_image" id="prpd_image" required>
+            </div>
+            <div class="form-group">
+                <label for="sensor_csv">센싱 데이터 CSV 업로드:</label>
+                <input type="file" name="sensor_csv" id="sensor_csv" required>
+            </div>
+            <button type="submit" class="btn">예측</button>
+        </form>
+    </div>
+</body>
+</html>
