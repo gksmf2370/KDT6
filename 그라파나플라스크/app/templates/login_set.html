@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    
+    <style>
+
+
+        /* yes mate  이미지 */ 
+
+        header img {
+            max-height: 50px;
+            margin-right: 50px; /* 이미지 오른쪽으로 이동 */
+            
+
+        }
+
+        .image-container  {
+            display: block; /* 왼쪽 정렬 */
+            margin-left: 180px; /* 오른쪽으로 약간 이동 */
+            margin-top: 25px; /* 위쪽 여백 */
+            max-width: 100%; /* 크기 제한 */
+            height: 50px; /* 세로 높이 설정 */
+            display: flex; /* 이미지 위치 조정을 위해 플렉스 박스를 사용 */
+            
+        }
+
+
+            /* main 안의 이미지 스타일 */
+        main .card img {
+            max-width: 100%;
+            border-radius: 10px;
+            width: 300px; /* main 안 이미지 크기 */
+            height: auto; /* 비율 유지 */
+            margin: 0; /* 추가 이동 방지 */
+
+        }
+        /* header  뒷배경 꾸미기 
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: stretch;
+            min-height: 100vh; 전체 화면 높이 설정
+} */
+
+       header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            margin-top: auto; /* 아래쪽으로 밀림 */
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+           
+        }
+        /*header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            background: linear-gradient(to bottom, #fff, #ffe0b2); /* 흰색에서 주황색으로 그라데이션 */
+           /* border-bottom: 1px solid #ddd;
+        } */
+
+
+        /* yes mate  이미지 */ 
+
+         header img {
+            max-height: 50px;
+            margin-right: 50px; /* 이미지 오른쪽으로 이동 */
+            margin-top: -10px; /* 위로 올림 (음수 값) */
+
+        }
+
+
+
+
+    /* 홈 버튼 이미지 스타일 */
+        .home-button {
+            width: 40px; /* 홈 버튼 크기 */
+            height: auto; /* 비율 유지 */
+            margin-top: 18px; /* 홈 버튼을 아래로 내림 */
+            justify-content: center; /* 가로 기준 가운데 정렬 */
+            align-items: center; /* 세로 기준 가운데 정렬 */
+            position: absolute;
+            right: 200px; /* 오른쪽에서 60px 떨어진 위치 */
+            top: 25px; /* 상단에서 20px 떨어진 위치 */
+            cursor: pointer; /* 클릭 가능한 아이콘으로 표시 */
+        }
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+      /*<main>  안에 있는거 */
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+            padding: 50px;
+        }
+        .content .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 400px; /* 원하는 이미지 가로 크기 */
+            height: auto; /* 비율을 유지하면서 크기 조정 */
+        }
+        .content .card img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+
+
+
+      /* 맨 밑ㅇㅔ 글자 */
+/* Footer를 화면 하단에 고정 */
+
+footer {
+            border-top: 1px solid #333; /* 푸터 상단에 선 추가 */
+            position: fixed; /* 화면 하단에 고정 */
+            bottom: 0; /* 창의 하단에 위치 */
+            left: 0; /* 왼쪽 정렬 */
+            width: 100%; /* 화면 전체 너비 */
+            display: flex; /* Flexbox 활성화 */
+            flex-direction: row; /* 가로 정렬 */
+            justify-content: center; /* 가운데 정렬 */
+            align-items: center; /* 세로축 가운데 정렬 */
+            padding: 10px 20px; /* 여백 */
+            background-color: #c0d2f9f9; /* 배경색 */
+            color: #000; /* 텍스트 색상 */
+            z-index: 1000; /* 다른 요소 위로 배치 */
+            box-sizing: border-box; /* 패딩 포함 */
+            gap: 30px; /* 두 요소 간 간격 */
+        }
+
+        footer .footer-top,
+        footer .footer-bottom {
+            display: flex; /* Flexbox 활성화 */
+            align-items: center; /* 세로축 가운데 정렬 */
+            text-align: center; /* 텍스트 가운데 정렬 */
+        }
+
+    footer .footer-top p {
+        text-decoration: none; /* 밑줄 제거 */
+        margin: 0; /* 기본 여백 제거 */
+        font-size: 13px; /* 글씨 크기 */
+        color: #000000; /* 글씨 색상 */
+    }
+
+    footer .footer-top img {
+        width: 24px; /* 아이콘 너비 */
+        height: 24px; /* 아이콘 높이 */
+        margin: 0 5px; /* 아이콘 간 간격 */
+        cursor: pointer; /* 포인터 모양 표시 */
+    }
+
+    footer .footer-bottom {
+        margin-left: 20px; /* 좌측 여백 */
+        font-size: 13px; /* 글씨 크기 */
+        color: #333; /* 글씨 색상 */
+    }
+    footer a {
+    text-decoration: none; /* 링크의 밑줄 제거 */
+    }
+    footer a img {
+    vertical-align: middle; /* 이미지가 텍스트와 수직으로 맞춰지도록 설정 */
+    }
+
+
+
+
+        
+    </style>
+</head>
+<body>
+ 
+    <header>
+      
+            <div class="image-container">
+            <img src="../static/images/예스메이트!.png" alt="Example JPG">
+                </div>
+     
+                <!-- 홈 버튼 추가 -->
+                 <div>
+                <a href="/"> <!--  메인페이지 돌아오는 ?? ㅋㅋ-->
+                    <img src="../static/images/홈버튼.png" alt="Home Button" class="home-button">
+                </a>
+            </div>
+            </header>
+
+    </header>
+
+
+    <main>
+        <div class="content">
+            <!-- 첫 번째 이미지: 관리자 -->
+            <div class="card">
+                <a href="http://127.0.0.1:5000/manager_page"> <!-- 링크 추가 -->
+                    <img src="../static/images/작업자 글자 있는거.png" alt="Engineer Icon">
+                </a>
+            </div>
+            <!-- 두 번째 이미지: 작업자 -->
+            <div class="card">
+                <a href="http://127.0.0.1:5000/worker"> <!-- 링크 추가 -->
+                    <img src="../static/images/작업자모자.png" alt="Business Icon">
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-top">
+            <p>
+                <a href="https://facebook.com" target="_blank">
+                    <img src="../static/images/facebook.png" alt="Facebook">
+                </a>
+                <a href="https://twitter.com" target="_blank">
+                    <img src="../static/images/twitter X.png" alt="Twitter">
+                </a>
+                <a href="https://instagram.com" target="_blank">
+                    <img src="../static/images/instagram.png" alt="Instagram">
+                </a>
+                <a href="https://youtube.com" target="_blank">
+                    <img src="../static/images/youtube.png" alt="YouTube">
+                </a>
+                <a href="https://accounts.kakao.com/" target="_blank">
+                    <img src="../static/images/kakao.png" alt="KakaoTalk">
+                </a>
+                <a href="https://blog.naver.com/computermate" target="_blank">
+                    <img src="../static/images/naver blog.png" alt="Blog">
+                </a>
+            </p>
+        </div>
+        <div class="footer-bottom">
+            <div class="footer-left">
+                © 2024 yes!mate(yi-hyun, ji-won, jae-ung, dong-gun)
+            </div>
+        </div>
+    </footer>
+    
+</body>
+</html>

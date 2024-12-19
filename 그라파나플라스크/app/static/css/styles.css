@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}

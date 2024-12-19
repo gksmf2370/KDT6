@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon - Blog Template</title>
+    
+    <style>
+        /* styles.css */
+
+            /* 기본 설정 --------------------------------------------*/
+            body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                color: #333;
+                background-color: #f5f5f5;
+            }
+
+            .container {
+                display: flex;
+                min-height: 100vh;
+            }
+
+            /*yes mate 로고 섹션 스타일 -----------------------------------------------*/
+            .logo-container {
+                display: flex; /* Flexbox 사용 */
+                justify-content: center; /* 수평 정렬 */
+                align-items: center; /* 수직 정렬 */
+                margin-bottom: 30px;
+                height: 100px; /* 로고 섹션 높이 설정 (필요시 조정) */
+                margin-bottom: 15px; /* 로고와 다른 요소 사이 간격 */
+                transform: translateX(-10px); /* 왼쪽으로 10px 이동 */
+                
+            }
+
+            .logo-container img {
+                
+                width: 170%; /* 로고 크기 조정 */
+                height: auto;
+                border-radius: 50%; /* 둥근 테두리 */
+            }
+
+            /* Sidebar 스타일 ------------------------------------------- */
+            .sidebar {
+                width: 18%; /* 사이드바 너비 */
+                background-color: #222222ee;
+                color: #ffffff;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start; /* 상단 정렬 */
+                align-items: flex-start; /* 왼쪽 정렬 */
+                text-align: left; /* 텍스트 왼쪽 정렬 */
+            }
+
+            /* 제목 스타일 */
+            .sidebar h1 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            /* 설명 텍스트 스타일 */
+            .sidebar p {
+                font-size: 14px;
+                line-height: 1.5;
+                margin-bottom: 20px;
+            }
+
+            /* 메뉴 스타일 */
+            .sidebar .menu ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .sidebar .menu li {
+                margin-bottom: 10px;
+            }
+
+            .sidebar .menu a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 20px;
+            }
+
+            .sidebar .menu a:hover {
+                text-decoration: underline;
+            }
+
+       
+            /* 소셜 링크 스타일 */
+            .sidebar {
+                display: flex;
+                flex-direction: column; /* 세로 정렬 */
+                align-items: center; /* 내부 요소 가운데 정렬 */
+            }
+
+            .sidebar .social-links {
+                display: flex;
+                justify-content: center; /* 수평 가운데 정렬 */
+                gap: 20px; /* 링크 간 간격 */
+                margin-top: 20px;
+            }
+
+            .sidebar .social-links a img {
+                width: 20px;
+                height: 20px;
+}
+
+            /* 홈모양 스타일 -------------------------------------------*/
+
+            .h2-container {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                position: relative; /* 부모 요소가 이미지를 기준으로 정렬 가능 */
+            }
+
+            .h2-container h2 {
+                flex: 1;
+                text-align: center;
+                margin-right: 10px; /* Adjust spacing between text and image */
+            }
+
+   
+            .h2-container .h2-image {
+                width: 50px; /* Adjust size as needed */
+                height: 42px; /* Adjust size as needed */
+
+            }
+
+
+            .h2-container {
+                display: flex;
+                justify-content: space-between; /* 텍스트와 이미지를 양쪽으로 배치 */
+                align-items: center;
+            }
+
+            .h2-image {
+
+                height: auto;
+                margin-left: 10px; /* 텍스트와 간격 */
+            }
+
+            /* Main Content 스타일 -------------------------------------------*/
+            .content {
+                width: 75%;
+                padding: 20px;
+                background-color: #fff;
+            }
+
+            .post {
+                margin-bottom: 20px;
+            }
+
+            .post h2 {
+                font-size: 24px;
+                margin-bottom: 5px;
+            }
+
+            .post .meta {
+                font-size: 14px;
+                color: #888;
+                margin-bottom: 10px;
+            }
+
+            .post p {
+                font-size: 16px;
+                line-height: 1.6;
+                margin-bottom: 10px;
+            }
+
+
+            /* 검은색박스 구분선 스타일 -----------------------------------------*/
+
+            .divider {
+                border: none; /* 기본 테두리 제거 */
+                border-top: 1.5px solid #676767; /* 선 색상과 두께 설정 */
+                margin: 50px 0; /* 위아래 여백 설정 */
+                width: 100%; /* 선 너비를 사이드바에 맞게 */
+            }
+    
+            /* main구분선 스타일 -----------------------------------------*/
+            .divider2 {
+                border: none; /* 기본 테두리 제거 */
+                border-top: 1.5px solid #c6c6c6; /* 선 색상과 두께 설정 */
+                margin-top: 40px; /* 위쪽 여백 설정 */
+                margin-bottom: 30px; /* 아래쪽 여백을 더 크게 설정 */
+                width: 100%; /* 선 너비를 사이드바에 맞게 */
+            }
+
+
+            /* 반응형 디자인 --------------------------------*/
+            @media (max-width: 768px) {
+                .container {
+                    flex-direction: column;
+                }
+
+                .sidebar {
+                    width: 100%;
+                }
+
+                .content {
+                    width: 100%;
+                }
+            }
+
+
+
+                    /* 맨 밑ㅇㅔ 글자 --------------------------------------------------------------------*/
+        /* Footer를 화면 하단에 고정 */
+
+            footer {
+                border-top: 1px solid #000000; /* 위쪽에 얇은 선 추가 */
+                padding-top: 10px; /* 선과 내용 사이의 간격 추가 */
+                position: fixed; /* 화면 하단에 고정 */
+                bottom: 0; /* 창의 하단에 위치 */
+                left: 0; /* 왼쪽 정렬 */
+                width: 100%; /* 화면 전체 너비 */
+                display: flex; /* Flexbox 활성화 */
+                flex-direction: row; /* 가로 정렬 */
+                justify-content: center; /* 가운데 정렬 */
+                align-items: center; /* 세로축 가운데 정렬 */
+                padding: 10px 20px; /* 여백 */
+                background-color: #4b4a48f9; /* 배경색 */
+                color: #000; /* 텍스트 색상 */
+                z-index: 1000; /* 다른 요소 위로 배치 */
+                box-sizing: border-box; /* 패딩 포함 */
+                gap: 30px; /* 두 요소 간 간격 */
+            }
+
+            
+            footer .footer-bottom {
+                display: flex; /* Flexbox 활성화 */
+                align-items: center; /* 세로축 가운데 정렬 */
+                text-align: center; /* 텍스트 가운데 정렬 */
+            }
+
+            footer .footer-bottom {
+                margin-left: 20px; /* 좌측 여백 */
+                font-size: 13px; /* 글씨 크기 */
+                color: #ffffff; /* 글씨 색상 */
+            }
+            footer a {
+                    text-decoration: none; /* 링크의 밑줄 제거 */
+            }
+            footer a img {
+                vertical-align: middle; /* 이미지가 텍스트와 수직으로 맞춰지도록 설정 */
+            }
+           
+            
+
+            /* 기본 리스트 스타일 ---------- 이 */
+       
+            .menu{
+                width:100%;
+            }
+            
+            ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            /* 리스트 아이템 스타일 */
+            ul > li {
+                position: relative;
+                margin-bottom: 10px;
+            }
+
+            /* 드롭다운 부모 스타일 */
+            .dropdown {
+                position: relative;
+            }
+
+            /* 드롭다운 메뉴 기본 숨김 */
+            .dropdown-menu {
+                display: none; /* 기본적으로 숨김 */
+                background-color: #00000000;
+                padding: 10px 0;
+                list-style: none;
+                margin: 0;
+                position: relative;
+            }
+
+            /* 드롭다운 메뉴 항목 스타일 */
+            .dropdown-menu li {
+                padding: 5px 20px;
+                position: relative;
+            }
+
+
+            /* 드롭다운 클릭 시 표시 */
+            .dropdown:focus-within .dropdown-menu {
+                display: block;
+            }
+
+            /* 서브 드롭다운 스타일 */
+            .sub-dropdown .date-picker {
+                display: none;
+                margin-top: 10px;
+            }
+
+            .sub-dropdown:focus-within .date-picker {
+                display: block;
+            }
+
+            /* 날짜 입력 칸 스타일 ----------------------------------------------------------------------*/
+            .date-picker input {
+                font-size: 14px; /* 글씨 크기를 16px로 증가 */
+                padding: 8px; /* 내부 여백을 더 늘려서 입력 칸 크기 확대 */
+                border: 1px solid #ccc; /* 테두리 스타일 유지 */
+                border-radius: 5px; /* 테두리를 조금 더 둥글게 */
+                width: 240px; /* 날짜 입력 칸의 너비 확대 */
+                max-width: 80%; /* 화면 크기에 따라 입력 칸이 줄어들도록 설정 */
+                box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* 입력 칸에 살짝 그림자 추가 */
+                transition: border-color 0.3s, box-shadow 0.3s; /* 포커스 시 부드러운 애니메이션 */
+            }
+
+            /* 포커스 상태에서 스타일 변경 */
+            .date-picker input:focus {
+                border-color: #4CAF50; /* 포커스 시 테두리 색상을 녹색으로 변경 */
+                box-shadow: 0px 2px 8px rgba(0, 128, 0, 0.3); /* 포커스 시 그림자 강조 */
+                outline: none; /* 기본 포커스 스타일 제거 */
+            }
+
+
+           /* 버튼 -------------------------------------------------------------------------- 스타일 */
+
+
+            button {
+                background-color: #0163d38a; /* 버튼 배경색 (녹색) */
+                color: white; /* 버튼 글자색 */
+                padding: 5px 10px; /* 버튼 내부 여백 (작게 설정) */
+                border: 1px solid #ffffff; /* 흰색 테두리 추가 */
+                border-radius: 5px; /* 둥근 모서리 */
+                font-size: 16px; /* 글자 크기 */
+                cursor: pointer; /* 마우스 커서를 포인터로 변경 */
+                transition: background-color 0.3s, transform 0.2s; /* 호버 및 클릭 애니메이션 */
+                position: relative; /* 위치 조정을 위해 추가 */
+                margin-top: 5px; /* 버튼을 아래로 이동 */
+                display: inline-block; /* 버튼이 테이블 안에서 고정 */
+            }
+
+
+
+                        /* 드롭다운 메뉴 스타일 */
+            .dropdown-menu {
+                padding: 10px; /* 내부 여백 추가 */
+            }
+
+            /* 모델 재학습과 시작 날짜 간 공간 추가 */
+            .date-picker form {
+                margin-top: 20px; /* 폼 상단에 20px 여백 */
+            }
+            button:hover {
+                background-color: #ffab24; /* 호버 시 버튼 배경색 */
+            }
+
+            button:active {
+                transform: scale(0.95); /* 클릭 시 버튼 살짝 축소 */
+            }
+
+            button:disabled {
+                background-color: #ccc; /* 비활성화된 버튼 색상 */
+                cursor: not-allowed; /* 비활성화된 버튼 커서 */
+            }
+
+
+            .page-list{
+                padding:20px 0 18px 0; 
+                width:14%; 
+                text-align: center; 
+                float:left;
+            }
+            .page-list-now{
+                width:16%; 
+                padding:20px 0 18px 0; 
+                font-weight: bold;
+                text-align: center;  
+                font-size:1.1rem;
+                float:left;
+            }
+            .menu{
+                width:100%;
+            }
+
+            ul li {
+                margin:0;
+                padding:0;
+            }
+            .ul-page a {
+                color:#555;
+                font-size:1.1rem;
+                text-decoration: none;
+            }
+            .ul-page a:hover{
+                color:white;
+            }
+            .page-list:hover{
+                background-color: #222;
+            }
+            .ul-page{
+                width:100%; 
+                float:left; 
+                padding:0; 
+                border:solid 1.5px #555;
+                border-radius: 40px;
+            }
+
+            .ul-page > a:first-child > .page-list{
+                border-radius: 40px 0 0 40px;
+            }
+
+            .ul-page > a:last-child > .page-list{
+                border-radius: 0 40px 40px 0;
+            }
+
+            .legend {
+                margin-top: 30px;
+                display: flex;
+                justify-content: center;
+                gap: 20px;
+
+                font-size: 20px;
+            }
+
+            .legend-item {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+
+                font-size: 20px;
+                font-weight: bold;
+            }
+
+            .legend-item span {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                border-radius: 3px;
+            }
+
+            .blue {
+                background-color:rgba(0, 128, 0, 0.4);
+            }
+
+            .orange {
+                background-color:rgba(255, 165, 0, 0.4);
+            }
+
+            .red {
+                background-color: rgba(255, 0, 0, 0.4);
+            }
+
+                    </style>
+
+               </head>
+               <body>
+            
+                <div class="container">
+                    <!-- Sidebar -->
+                    <aside class="sidebar">
+                        <!-- Logo Section -->
+                        <div class="logo-container">
+                            <img src="../static/images/로고흰색mate.png"  alt="Logo" >
+                        </div>
+                        <h1>관리자</h1>
+                        <p>MES and various solutions specialized for manufacturing sites ensure successful project performance</p>
+                         <!-- 구분선 추가 -->
+                        <hr class="divider">
+                        <nav class="menu">
+                         <ul>
+                             <!-- "일별LOSS & 생산 품질" -->
+                             
+                 
+                                     <!-- 재웅 버튼 부분 -->
+                                     <li class="dropdown">
+                                         <a href="#" class="dropdown-toggle" tabindex="0">
+                                             <img src="../static/images/loss3.png" alt="아이콘" style="width:24px; height:24px; margin-right:8px;" > 
+                                             LOSS & 생산 품질
+                                         </a>
+                                         <ul class="dropdown-menu">
+                                             <li class="sub-dropdown">
+                                                 <a href="#" style="display: flex; align-items: center;">
+                                                     <img src="../static/images/일별.png" alt="일별 아이콘" style="width:20px; height:20px; margin-right:8px;">
+                                                     일별
+                                                 </a>
+                                                 <div class="date-picker">
+                                                     <form id="daily-form" action="/manager_page/Day" method="GET">
+                                                         <label for="daily-date">날짜 선택:</label>
+                                                         <input type="date" id="date" name="date" min="2023-01-01" max="2023-12-31" required>
+                                                         <button type="submit" form="daily-form">그래프 생성</button>
+                                                     </form>
+                                                 </div>
+                                             </li>
+                                             <li class="sub-dropdown">
+                                                 <a href="#" style="display: flex; align-items: center;">
+                                                     <img src="../static/images/달별.png" alt="월별 아이콘" style="width:20px; height:20px; margin-right:8px;">
+                                                     월별
+                                                 </a>
+                                                 <div class="date-picker">
+                                                     <form id="monthly-form" action="/manager_page/Month" method="GET">
+                                                         <label for="monthly-date">월 선택:</label>
+                                                         <input type="month" id="month" name="month" min="2023-01" max="2023-12" required>
+                                                         <button type="submit" form="monthly-form">그래프 생성</button>
+                                                     </form>
+                                                 </div>
+                                             </li>
+                                         </ul>
+                                     </li>
+                                     <br>
+                                 <!-- 지원 버튼 -->
+                                     <li class="dropdown">
+                                         <a href="#" class="dropdown-toggle" tabindex="0">
+                                             <img src="../static/images/ai아이콘.png" alt="아이콘" style="width:24px; height:24px; margin-right:8px;">
+                                             생산품 비교
+                                         </a>
+                                         <ul class="dropdown-menu">
+                                             <li class="sub-dropdown">
+                                                 <a href="#" style="display: flex; align-items: center;">
+                                                     <img src="../static/images/일별.png" alt="일별 아이콘" style="width:20px; height:20px; margin-right:8px;">
+                                                     일별
+                                                 </a>
+                                                 <div class="date-picker">
+                                                     <form id="daily-form1" action="/showGraph_daily_New2" method="GET">
+                                                     <label for="daily-date1">날짜 선택:</label>
+                                                     <input type="date" id="daily-date1" name="date1" min="2023-01-01" max="2023-12-31" required>
+                                                     <br>
+                                                     <label for="daily-date2">날짜 선택:</label>
+                                                     <input type="date" id="daily-date2" name="date2" min="2023-01-01" max="2023-12-31" required>
+                                                     <button type="submit" form="daily-form1">그래프 생성</button>
+                                                     </form>
+                                                 </div>
+                                             </li>
+                                             <li class="sub-dropdown">
+                                                 <a href="#" style="display: flex; align-items: center;">
+                                                     <img src="../static/images/달별.png" alt="월별 아이콘" style="width:20px; height:20px; margin-right:8px;">
+                                                     월별
+                                                 </a>
+                                                 <div class="date-picker">
+                                                    <form id="monthly-form2" action="/showGraph_month_New2" method="GET">
+                                                     <label for="monthly-date">월 선택:</label>
+                                                     <input type="month" id="monthly-date" name="date1" min="2023-01" max="2023-12" required>
+                                                     <br>
+                                                     <label for="monthly-date">월 선택:</label>
+                                                     <input type="month" id="monthly-date" name="date2" min="2023-01" max="2023-12" required>
+                                                     <button type="submit" form="monthly-form2">그래프 생성</button>
+                                                     </form>    
+                                                 </div>
+                                             </li>
+                                         </ul>
+                                     </li>
+                                     <br>
+                                     <!-- "모델 재학습" -->
+                                   
+                                     <li class="dropdown">
+                                         <a href="#" class="dropdown-toggle" tabindex="0">
+                                             <img src="../static/images/재학습2.png"alt="아이콘" style="width:24px; height:24px; margin-right:8px;" > 
+                                             모델 재학습
+                                         </a>
+                                         <ul class="dropdown-menu">
+                                         
+                                                 <div class="date-picker" style="margin-left: 20px;">
+                                                     <form id="range-form" action="/filter-data" method="POST">
+                                                         
+                                                         <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                                                             <img src="../static/images/start.png" alt="달력 아이콘" style="width:50px; height:25px; margin-right:8px;">
+                                                             <label for="start-date">
+                                                         </div>
+                                                         <input type="date" id="start-date" name="start-date" min="2023-01-01" max="2023-12-31" required>
+                                                         <br>
+                                                         <br>
+            
+                                                         <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                                                             <img src="../static/images/stop.png" alt="달력 아이콘" style="width:50px; height:25px; margin-right:8px;">
+                                                         <label for="end-date">
+                                                         </div>
+                                                         <input type="date" id="end-date" name="end-date" min="2023-01-01" max="2023-12-31" required>
+                                                         
+                                                         <button type="submit">범위 학습</button>
+                                                     </form>
+                                                 </div>
+                                             </li>
+                                         </ul>
+                                     </li>
+                                     
+            
+                                             </ul>
+                         
+                        </nav>
+                        <!-- 구분선 추가 -->
+                        <hr class="divider">
+                        <div class="social-links">
+                                 <a href="https://facebook.com" target="_blank">
+                                     <img src= "../static/images/facebook.png" alt="Facebook">
+                                 </a>
+                                 <a href="https://twitter.com" target="_blank">
+                                     <img src="../static/images/twitter X.png" alt="Twitter">
+                                 </a>
+                                 <a href="https://instagram.com" target="_blank">
+                                     <img src="../static/images/instagram.png" alt="Instagram">
+                                 </a>
+                                 <a href="https://youtube.com" target="_blank">
+                                     <img src="../static/images/youtube.png" alt="YouTube">
+                                 </a>
+                                 <a href="https://accounts.kakao.com/" target="_blank">
+                                     <img src="../static/images/kakao.png" alt="KakaoTalk">
+                                 </a>
+                                 <a href="https://blog.naver.com/computermate" target="_blank">
+                                     <img src="../static/images/naver blog.png" alt="Blog">
+                                 </a>
+                             </div>
+                    </aside>
+            
+                    <!-- Main Content -->
+                 <main class="content">
+                     
+                     <article class="post">
+                         <div class="h2-container">
+                             <h2> 일별 LOSS & 생산 품질 </h2>
+                             <a href="/" class="button-link">
+                                 <img class="h2-image" src="../static/images/홈버튼.png" alt="Example Button">
+                             </a>
+                         </div>
+                                                           
+                            <!-- 구분선 추가 -->
+                            <hr class="divider2">
+                                 <div>
+                                    <main>
+                                
+                                    
+                                        <!-- 그래프 표시 -->
+                                        {% if chart and stacked_chart %}
+                                            <div class="charts-container" style="margin-top:100px;">
+                                                <div>
+                                                <div class="chart" style="width:50%; text-align: center; float:left;">
+                                                    <h3>{{ date }}의 Loss 그래프</h3>
+                                                    <img src="{{ url_for('static', filename='Day_Loss.png') }}" style=" width:100%"  alt="Loss Chart">
+                                                </div>
+                                                </div>
+                                                <div class="chart" style="width:50%; text-align: center; float:left;">
+                                                    <h3>{{ date }}의 Quality 그래프</h3>
+                                                    <img src="{{ url_for('static', filename='Day_quality.png') }}" style="width:100%" alt="Quality Chart">
+                                                </div>
+                                            </div>
+                                        {% else %}
+                                            <p>선택한 날짜에 데이터가 없습니다.</p>
+                                        {% endif %}
+                                    </main>
+                            <!-- 구분선 추가 -->
+                            <hr class="divider2" >
+                            <!-- 범례 -->
+                                <div class="legend" style="margin-bottom: 30px;">
+                                    <div class="legend-item">
+                                        <span class="blue"></span>
+                                        <p>A급: 2.9 ~ 3.1g</p>
+                                    </div>
+                                    <div class="legend-item">
+                                        <span class="orange"></span>
+                                        <p>B급: 2.8 ~ 3.2g</p>
+                                    </div>
+                                    <div class="legend-item">
+                                        <span class="red"></span>
+                                        <p>C급: 2.7 ~ 3.3g</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <ul class="ul-page">
+                                    {% for ldate in date_list %}
+                                        {% if ldate == date %}
+                                            <li class="page-list-now">{{ ldate }}</li>
+                                        {% else %}
+                                            <a href="/manager_page/Day?date={{ ldate }}"><li class="page-list">{{ ldate }}</li></a>
+                                        {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+
+                   <footer>
+    
+       
+                 
+                    <div class="footer-bottom">
+                         © 2024 yes!mate(yi-hyun, ji-won, jae-ung, dong-gun) ♥이멤버리멤버♥
+                   </div>
+            
+            
+                    </footer>
+            
+               </body>
+               </html>

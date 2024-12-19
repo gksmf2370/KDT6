@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon - Blog Template</title>
+    
+    <style>
+        /* styles.css */
+
+            /* 기본 설정 --------------------------------------------*/
+            body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                color: #333;
+                background-color: #f5f5f5;
+            }
+
+            .container {
+                display: flex;
+                min-height: 100vh;
+            }
+
+            /*yes mate 로고 섹션 스타일 -----------------------------------------------*/
+            .logo-container {
+                display: flex; /* Flexbox 사용 */
+                justify-content: center; /* 수평 정렬 */
+                align-items: center; /* 수직 정렬 */
+                margin-bottom: 30px;
+                height: 100px; /* 로고 섹션 높이 설정 (필요시 조정) */
+                margin-bottom: 15px; /* 로고와 다른 요소 사이 간격 */
+                transform: translateX(-10px); /* 왼쪽으로 10px 이동 */
+                
+            }
+
+            .logo-container img {
+                
+                width: 170%; /* 로고 크기 조정 */
+                height: auto;
+                border-radius: 50%; /* 둥근 테두리 */
+            }
+
+            /* Sidebar 스타일 ------------------------------------------- */
+            .sidebar {
+                width: 18%; /* 사이드바 너비 */
+                background-color: #222222ee;
+                color: #ffffff;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start; /* 상단 정렬 */
+                align-items: flex-start; /* 왼쪽 정렬 */
+                text-align: left; /* 텍스트 왼쪽 정렬 */
+            }
+
+            /* 제목 스타일 */
+            .sidebar h1 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            /* 설명 텍스트 스타일 */
+            .sidebar p {
+                font-size: 14px;
+                line-height: 1.5;
+                margin-bottom: 20px;
+            }
+
+            /* 메뉴 스타일 */
+            .sidebar .menu ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .sidebar .menu li {
+                margin-bottom: 10px;
+            }
+
+            .sidebar .menu a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 20px;
+            }
+
+            .sidebar .menu a:hover {
+                text-decoration: underline;
+            }
+
+       
+            /* 소셜 링크 스타일 */
+            .sidebar {
+                display: flex;
+                flex-direction: column; /* 세로 정렬 */
+                align-items: center; /* 내부 요소 가운데 정렬 */
+            }
+
+            .sidebar .social-links {
+                display: flex;
+                justify-content: center; /* 수평 가운데 정렬 */
+                gap: 20px; /* 링크 간 간격 */
+                margin-top: 20px;
+            }
+
+            .sidebar .social-links a img {
+                width: 20px;
+                height: 20px;
+}
+
+            /* 홈모양 스타일 -------------------------------------------*/
+
+            .h2-container {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                position: relative; /* 부모 요소가 이미지를 기준으로 정렬 가능 */
+            }
+
+            .h2-container h2 {
+                flex: 1;
+                text-align: center;
+                margin-right: 10px; /* Adjust spacing between text and image */
+            }
+
+            .h2-container .h2-image {
+                width: 50px; /* Adjust size as needed */
+                height: 42px; /* Adjust size as needed */
+
+            }
+
+            .h2-image {
+
+                height: auto;
+                margin-left: 10px; /* 텍스트와 간격 */
+            }
+
+            /* Main Content 스타일 -------------------------------------------*/
+            .content {
+                width: 75%;
+                padding: 20px;
+                background-color: #fff;
+            }
+
+            .post {
+                margin-bottom: 20px;
+            }
+
+            .post h2 {
+                font-size: 24px;
+                margin-bottom: 5px;
+            }
+
+            .post .meta {
+                font-size: 14px;
+                color: #888;
+                margin-bottom: 10px;
+            }
+
+            .post p {
+                font-size: 16px;
+                line-height: 1.6;
+                margin-bottom: 10px;
+            }
+
+
+            /* 검은색박스 구분선 스타일 -----------------------------------------*/
+
+            .divider {
+                border: none; /* 기본 테두리 제거 */
+                border-top: 1.5px solid #676767; /* 선 색상과 두께 설정 */
+                margin: 35px 0; /* 위아래 여백 설정 */
+                width: 100%; /* 선 너비를 사이드바에 맞게 */
+            }
+    
+            /* main구분선 스타일 -----------------------------------------*/
+            .divider2 {
+                border: none; /* 기본 테두리 제거 */
+                border-top: 1.5px solid #c4c4c4; /* 선 색상과 두께 설정 */
+                margin-top: 20px; /* 위쪽 여백 설정 */
+                margin-bottom: 20px; /* 아래쪽 여백을 더 크게 설정 */
+                width: 100%; /* 선 너비를 사이드바에 맞게 */
+            }
+
+
+            /* 반응형 디자인 --------------------------------*/
+            @media (max-width: 768px) {
+                .container {
+                    flex-direction: column;
+                }
+
+                .sidebar {
+                    width: 100%;
+                }
+
+                .content {
+                    width: 100%;
+                }
+            }
+
+
+
+                    /* 맨 밑ㅇㅔ 글자 --------------------------------------------------------------------*/
+        /* Footer를 화면 하단에 고정 */
+
+            footer {
+                border-top: 1px solid #000000; /* 위쪽에 얇은 선 추가 */
+                padding-top: 10px; /* 선과 내용 사이의 간격 추가 */
+                position: fixed; /* 화면 하단에 고정 */
+                bottom: 0; /* 창의 하단에 위치 */
+                left: 0; /* 왼쪽 정렬 */
+                width: 100%; /* 화면 전체 너비 */
+                display: flex; /* Flexbox 활성화 */
+                flex-direction: row; /* 가로 정렬 */
+                justify-content: center; /* 가운데 정렬 */
+                align-items: center; /* 세로축 가운데 정렬 */
+                padding: 10px 20px; /* 여백 */
+                background-color: #4b4a48f9; /* 배경색 */
+                color: #000; /* 텍스트 색상 */
+                z-index: 1000; /* 다른 요소 위로 배치 */
+                box-sizing: border-box; /* 패딩 포함 */
+                gap: 30px; /* 두 요소 간 간격 */
+            }
+
+            
+            footer .footer-bottom {
+                display: flex; /* Flexbox 활성화 */
+                align-items: center; /* 세로축 가운데 정렬 */
+                text-align: center; /* 텍스트 가운데 정렬 */
+            }
+
+            footer .footer-bottom {
+                margin-left: 20px; /* 좌측 여백 */
+                font-size: 13px; /* 글씨 크기 */
+                color: #ffffff; /* 글씨 색상 */
+            }
+            footer a {
+                    text-decoration: none; /* 링크의 밑줄 제거 */
+            }
+            footer a img {
+                vertical-align: middle; /* 이미지가 텍스트와 수직으로 맞춰지도록 설정 */
+            }
+           
+            
+
+
+
+
+
+     
+
+            /*<main>  안에 있는거  이미지   */
+        .content {
+            display: flex;
+            justify-content: center; /* 수평 가운데 정렬 */
+            align-items: center; /* 수직 가운데 정렬 */
+            gap: 90px; /* 카드 사이 간격 */
+            padding: 50px;
+            
+        }
+
+        .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 15px; /* 둥근 테두리 조금 더 강조 */
+            padding: 50px; /* 내부 여백 확대 */
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* 더 강한 그림자 */
+            text-align: center;
+            width: 400px; /* 카드 너비 확대 */
+            height: auto; /* 비율 유지 */
+            transform: translateX(80px); /* 오른쪽으로 100px 이동 */
+        }
+
+        .card img {
+            max-width: 100%;
+            height: 300px; /* 고정 높이로 크기 통일 */
+            border-radius: 15px;
+            object-fit: cover; /* 이미지 잘림 방지 */
+        }
+            
+  
+
+
+
+        /*작업자 관리자 이미지 밑에 비번 창 -----------------------------*/
+        .card form {
+    margin-top: 20px; /* 이미지와 폼 간격 */
+    display: flex;
+    flex-direction: column; /* 수직 정렬 */
+    gap: 10px; /* 입력 필드와 버튼 간격 */
+    align-items: center; /* 가운데 정렬 */
+}
+
+.card input[type="password"] {
+    width: 80%; /* 입력 칸 너비 */
+    padding: 10px; /* 내부 여백 */
+    border: 1px solid #ccc; /* 테두리 */
+    border-radius: 5px; /* 둥근 모서리 */
+    font-size: 14px; /* 글꼴 크기 */
+}
+
+.card button {
+    padding: 10px 20px; /* 버튼 크기 */
+    background-color: #4CAF50; /* 녹색 배경 */
+    color: white; /* 텍스트 색상 */
+    border: none; /* 테두리 제거 */
+    border-radius: 5px; /* 둥근 모서리 */
+    font-size: 14px; /* 글꼴 크기 */
+    cursor: pointer; /* 마우스 포인터 */
+}
+
+.card button:hover {
+    background-color: #45a049; /* 호버 시 색상 변화 */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </style>
+
+               </head>
+               <body>
+            
+                   <div class="container">
+                       <!-- Sidebar -->
+                       <aside class="sidebar">
+                           <!-- Logo Section -->
+                           <div class="logo-container">
+                               <img src="../static/images/로고흰색mate.png" alt="Logo" >
+                           </div>
+                           <h1>회사설명</h1>
+                           <p>Leading the Fourth Industry era through sustainable R&D.
+                            Supports building of integrated solutions, including IT development, infrastructure building, system maintenance, and training</p>
+                           
+                            <!-- 구분선 추가 -->
+                           <hr class="divider">
+                           <nav class="menu">
+
+                                <div class="current-time">
+                                    <a>현재 시간</a>
+                                    <br>
+                                    <a id="currentTime" ></a>
+                                </div>
+                            
+                            </nav>
+                            
+                 
+                           <!-- 구분선 추가 -->
+                           <hr class="divider">
+
+                           <div class="social-links">
+                                <a href="https://facebook.com" target="_blank">
+                                    <img src= "../static/images/facebook.png" alt="Facebook">
+                                </a>
+                                <a href="https://twitter.com" target="_blank">
+                                    <img src="../static/images/twitter X.png" alt="Twitter">
+                                </a>
+                                <a href="https://instagram.com" target="_blank">
+                                    <img src="../static/images/instagram.png" alt="Instagram">
+                                </a>
+                                <a href="https://youtube.com" target="_blank">
+                                    <img src="../static/images/youtube.png" alt="YouTube">
+                                </a>
+                                <a href="https://accounts.kakao.com/" target="_blank">
+                                    <img src="../static/images/kakao.png" alt="KakaoTalk">
+                                </a>
+                                <a href="https://blog.naver.com/computermate" target="_blank">
+                                    <img src="../static/images/naver blog.png" alt="Blog">
+                                </a>
+                                </div>
+                       </aside>
+               
+                       <!-- Main Content -->
+                    <main class="content">
+                        
+                        <article class="post">
+                            <div class="h2-container">
+                                <h2> 로그인 페이지 </h2>
+    
+                            </div>
+                                                           
+                            <!-- 구분선 추가 -->
+                            <hr class="divider2">
+
+
+
+
+                            <div class="content">
+                                <!-- 첫 번째 이미지: 작업자 -->
+                                <div class="card">
+                                        <img src="../static/images/작업자모자.png" alt="Business Icon">
+                                
+                                    <form action="/worker" method="POST">
+                                        <input type="password" name="worker_password" placeholder="비밀번호를 입력하세요" required>
+                                        <button type="submit">로그인</button>
+                                    </form>
+                                </div>
+                                
+                                <!-- 두 번째 이미지: 관리자 -->
+                                <div class="card">
+                                    
+                                        <img src="../static/images/관리자책.jpg" alt="Engineer Icon">
+                               
+                                    <form action="/manager_page" method="POST">
+                                        <input type="password" name="admin_password" placeholder="비밀번호를 입력하세요" required>
+                                        <button type="submit">로그인</button>
+                                    </form>
+                                </div>
+                            </div>
+               
+                             <!-- 구분선 추가 -->
+                             <hr class="divider2">
+
+
+
+
+
+                   <footer>
+                    <div class="footer-bottom">
+                         © 2024 yes!mate(yi-hyun, ji-won, jae-ung, dong-gun) ♥이멤버리멤버♥
+                   </div>
+            
+            
+                    </footer>
+                    <script>
+                        function updateTime() {
+                            const now = new Date();
+                            const formattedTime = now.toLocaleString("ko-KR", {
+                                year: "numeric",
+                                month: "2-digit",
+                                day: "2-digit",
+                                hour: "2-digit",
+                                minute: "2-digit",
+                                second: "2-digit",
+                            });
+                            document.getElementById("currentTime").innerText = `${formattedTime}`;
+                        }
+
+                        // 1초마다 시간 업데이트
+                        setInterval(updateTime, 1000);
+
+                        // 페이지 로드 시 즉시 시간 표시
+                        updateTime();
+                    </script>
+               </body>
+               </html>
